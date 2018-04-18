@@ -15,15 +15,13 @@
 * Lab Calendars @ Google Calendar \([subscribe Calendars in your app](http://www.ncrnalab.org/wiki2/doku.php?id=lab_calendars)\)
   * [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
-* Lab Files and Docs @ Google Drive
 * [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
 
 
-# Lu Lab Internal Projects
-hosted with github
+# Lu Lab Intranet
 
 * [Intranet of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
-* [Bioinfo Training Program @ Lu Lab](http://lulab.github.io/training) <sup>Private</sup>
+* Lab Files and Docs @ Google Drive <sup>Private</sup>
 
 You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
 
