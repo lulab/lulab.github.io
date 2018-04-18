@@ -3,7 +3,7 @@
 **Welcome** 
 
 * [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg)
-* [[FAQ]]
+* [FAQ](https://lulab.github.io/FAQ)
 
 **Learning** 
 
