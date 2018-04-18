@@ -16,8 +16,6 @@ hosted with github
 # Lu Lab Internal Projects
 hosted with github
 
----
-
 * [Intranet of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
 * [Bioinfo Training Program @ Lu Lab](http://lulab.github.io/training) <sup>Private</sup>
 
