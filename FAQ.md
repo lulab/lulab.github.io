@@ -1,5 +1,3 @@
-## \[\[置顶\]\] 
-
 * **我们要经常备份数据吗？**
 
 **日常的数据备份是必需的**：[How to backup your data？](http://note.youdao.com/noteshare?id=5e0debcc8e23dbadb22e5a8c5786cbc9)
