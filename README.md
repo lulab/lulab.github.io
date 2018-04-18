@@ -26,10 +26,7 @@
 You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
 
 
-# Personal Projects of Lu Lab
-hosted with github
 
-* [PI](http://lulab.github.io/PI) <sup>Public</sup>
 
 
 # Lu Lab Public Projects/Software
@@ -40,6 +37,8 @@ hosted with github
 * [COME](https://github.com/lulab/COME) 2016
 * [RME](https://github.com/lulab/RME) 2015
 
+* More Personal Projects/Scripts
+  * [PI](http://lulab.github.io/PI) 
 
 
 
