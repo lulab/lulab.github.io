@@ -7,7 +7,7 @@
 
 **Learning** 
 
-* [Lab **training**](https://lulab.github.io/training) @ github
+* [Lab **Training**](https://lulab.github.io/training) @ github
 * [Course Schedules ](https://www.evernote.com/pub/view/luzhiustc/teaching) @ Tsinghua
 
 **Research** 
@@ -20,7 +20,7 @@
 
 # Level 2 - Lu Lab Intranet
 
-* [Intranet of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
+* [**Intranet** of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
 * Lab Files and Docs @ Google Drive <sup>Private</sup>
 
 You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
