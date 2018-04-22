@@ -1,4 +1,4 @@
-# Beginner - How to Start in Lu Lab
+# Level 1 - How to Start in Lu Lab
 
 **Welcome** 
 
@@ -12,13 +12,13 @@
 
 **Research** 
 
-* Lab Calendars @ Google Calendar \([subscribe Calendars in your app](http://www.ncrnalab.org/wiki2/doku.php?id=lab_calendars)\)
+* Meetings: Lab Calendars @ Google Calendar \([subscribe Calendars in your app](http://www.ncrnalab.org/wiki2/doku.php?id=lab_calendars)\)
   * [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
-* [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
+* Notes: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
 
 
-# Lu Lab Intranet
+# Level 2 - Lu Lab Intranet
 
 * [Intranet of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
 * Lab Files and Docs @ Google Drive <sup>Private</sup>
@@ -27,9 +27,7 @@ You will need to request a permission to view/edit the internal projects <sup>Pr
 
 
 
-
-
-# Lu Lab Public Projects/Software
+# Level 3- Lu Lab Public Projects/Software
 hosted with github
 
 * [Ribowave](http://lulab.github.io/Ribowave) 2018
