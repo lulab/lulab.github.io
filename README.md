@@ -1,4 +1,6 @@
-# Level 1 - How to Start in Lu Lab
+# Lu Lab's Pages
+
+## Level 1 - How to Start in Lu Lab
 
 **Welcome** 
 
@@ -18,7 +20,7 @@
 * Notes: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
 
 
-# Level 2 - Lu Lab Intranet
+## Level 2 - Lu Lab Intranet
 
 * [**Intranet** of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
 * Lab Files and Docs @ Google Drive <sup>Private</sup>
@@ -27,7 +29,7 @@ You will need to request a permission to view/edit the internal projects <sup>Pr
 
 
 
-# Level 3- Lu Lab Public Projects/Software
+## Level 3- Lu Lab Public Projects/Software
 hosted with github
 
 * [Ribowave](http://lulab.github.io/Ribowave) 2018
