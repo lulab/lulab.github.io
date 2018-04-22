@@ -5,7 +5,7 @@
 **Welcome** 
 
 * [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg)
-* [FAQ](https://lulab.github.io/intranet/FAQ)
+* [FAQ](https://lulab.github.io/FAQ)
 
 **Learning** 
 
