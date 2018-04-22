@@ -40,7 +40,7 @@ hosted with github
 --
 
 * More Personal Projects/Scripts
-  * [PI](http://lulab.github.io/PI) 
+  * [PI](http://urluzhi.github.io/scripts) 
 
 
 
