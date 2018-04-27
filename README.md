@@ -44,5 +44,16 @@ hosted with github
   * [PI](http://urluzhi.github.io/scripts) 
 
 
+---
+
+> * Lu Lab
+> * School of Life Sciences, Tsinghua University, Beijing, China
+> * e-mai: lulab AT biomed.tsinghua.edu.cn
+> * Hompage: http://bioinfo.life.tsinghua.edu.cn
+> * Books: http://lulab.gitbooks.io
+> * Code: http://lulab.github.io
+> * Software: http://software.ncrnalab.org
+
+
 
 
