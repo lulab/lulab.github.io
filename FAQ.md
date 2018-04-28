@@ -46,7 +46,7 @@
 
 [百度网盘](https://pan.baidu.com/s/1geNXf3d#list/path=%2FLu%20Lab%20Public%20Files%2FLu%20Lab%20Public%20Photos&parentPath=%2FLu%20Lab%20Public%20Files&vmode=grid)
 
-[清华云盘链接](https://cloud.tsinghua.edu.cn/d/595a46b9766847caa659/)
+[清华云盘链接](https://cloud.tsinghua.edu.cn/d/595a46b9766847caa659/?p=/&mode=grid)
 
 
 * **大家平时用什么方式锻炼身体？**
