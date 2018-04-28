@@ -2,8 +2,11 @@
 
 * **我们要经常备份数据吗？**
 
-**日常的数据备份是必需的**：[How to backup your data？](http://note.youdao.com/noteshare?id=5e0debcc8e23dbadb22e5a8c5786cbc9)
+**日常的数据备份是必需的**：
 
+[How to backup your data？](https://lulab.gitbook.io/training/part-i-basic-skills/3.bash-and-github#example-ii)
+
+[More Tips](https://lulab.gitbook.io/training/part-i-basic-skills/1.setup/instruction#4-always-backup-data-files-regularly)
 
 * **在实验室如何上网？**
 
@@ -39,9 +42,11 @@
 开户行及账号：工行海淀西区支行 0200004509089131550
 
 
-* **实验室活动的照片在哪里能下载？**
+* **实验室活动的照片在哪里能看到？**
 
-[百度网盘下载链](https://pan.baidu.com/s/1geNXf3d#list/path=%2FLu%20Lab%20Public%20Files%2FLu%20Lab%20Public%20Photos&parentPath=%2FLu%20Lab%20Public%20Files&vmode=grid)
+[百度网盘](https://pan.baidu.com/s/1geNXf3d#list/path=%2FLu%20Lab%20Public%20Files%2FLu%20Lab%20Public%20Photos&parentPath=%2FLu%20Lab%20Public%20Files&vmode=grid)
+
+[清华云盘链接](https://cloud.tsinghua.edu.cn/d/595a46b9766847caa659/)
 
 
 * **大家平时用什么方式锻炼身体？**
