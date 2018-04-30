@@ -92,7 +92,6 @@ PTN学生上课要求
 -   主讲：鲁志等 
 -   对象：大三大四为主的本科生， 专业选修课
 -   教学资源：[课件和作业下载](https://www.jianguoyun.com/p/DTCJc-gQ0NLuBRj9kQ4#dir=%2F2016%2F%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E5%AF%BC%E8%AE%BA-PTN::mode=0)
--   课件和教学日历：
 
 助教信息
 
@@ -124,7 +123,7 @@ PTN学生上课要求
 
 --- 
 
--   [Pervious Years' Courses](http://www.ncrnalab.org/wiki/index.php/2015_Courses)
+-   [Pervious Years' Courses](https://www.evernote.com/pub/view/luzhiustc/teaching)
 
 
 
