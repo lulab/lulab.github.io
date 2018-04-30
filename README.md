@@ -10,7 +10,7 @@
 📖 **Learning** 
 
 * [Lab **Training**](https://lulab.github.io/training) @ github
-* [Course Schedules ](https://www.evernote.com/pub/view/luzhiustc/teaching) @ Tsinghua
+* [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
 
 📈 **Research** 
 
