@@ -1,8 +1,8 @@
 > [Home](https://lulab.github.io)
 
-# Courses -- 2018
+# Courses 
 
-## Spring Semester 春季学期
+## Spring Semester 春季学期 -- 2018
 
 ### Advanced Courses  博士生课程
 
