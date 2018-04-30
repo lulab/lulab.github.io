@@ -6,6 +6,8 @@
 
 ### Advanced Courses  博士生课程
 
+---
+
 #### I. Bioinformatics and Systems Biology《生物信息和系统生物学》
 
 讲授单元：生物信息学基本方法和算法 -- 9hr
@@ -28,6 +30,8 @@
 
 ### Advanced Courses  硕士生课程
 
+---
+
 #### I.《现代生命科学与生物工程进展》
 
 讲授单元：生物信息学简介 -- 4hr
@@ -39,6 +43,8 @@
 -   对象：日本留学硕士生
 
 ### Basic Courses 本科生课程
+
+---
 
 #### I. Biophysics 《生物物理学》
 
@@ -52,6 +58,8 @@
 
 ### Other Courses 其他课程
 
+---
+
 * 《高中生奥林匹克竞赛考察课》— 1 hr
 * 《高中教师培训课》—  1hr
 
@@ -59,6 +67,8 @@
 ## Autumn Semester 秋季学期 - 2017
 
 ### Advanced Courses  博士生课程
+
+---
 
 #### I. Introduction to Genomics - PTN 《基因组学导论-PTN》
 
@@ -84,6 +94,8 @@ PTN学生上课要求
 
 
 ### Basic Courses 本科生课程
+
+---
 
 #### I. Introduction to Bioinformatics 《生物信息学导论》
 
