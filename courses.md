@@ -2,7 +2,7 @@
 
 # Courses 
 
-## Spring Semester 春季学期 -- 2018
+## Spring Semester 春季学期
 
 ### Advanced Courses  博士生课程
 
