@@ -1,3 +1,5 @@
+> [Home](https://lulab.github.io)
+
 # FAQ
 
 * **我们要经常备份数据吗？**
