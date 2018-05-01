@@ -14,7 +14,7 @@
 
 📈 **Research** 
 
-* Meetings: Lab Calendars @ Google Calendar \([subscribe Calendars in your app](http://www.ncrnalab.org/wiki2/doku.php?id=lab_calendars)\)
+* Meetings: Lab Calendars @ Google Calendar \([subscribe Calendars in your app](https://lulab.github.io/cal)\)
   * [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 * Notes: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
@@ -55,5 +55,10 @@ hosted with github
 > * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
 
 
+---
+
+> [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+> | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
+> | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
 
