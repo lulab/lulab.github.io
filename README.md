@@ -1,4 +1,4 @@
-# Lu Lab's Github Pages
+# Lab Guide 
 
 ## Level 1 - How to Start in Lu Lab
 
