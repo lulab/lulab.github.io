@@ -1,5 +1,3 @@
-> [Home](https://lulab.github.io)
-
 # Courses 
 
 ## Spring Semester 春季学期
