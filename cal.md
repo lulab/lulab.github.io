@@ -1,5 +1,3 @@
-> [Home](https://lulab.github.io)
-
 # Calendars
 
 > You can copy the following links (**ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer.
