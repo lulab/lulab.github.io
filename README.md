@@ -27,7 +27,7 @@
 * [**Intranet** of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
   * 🚩[**to do**](https://github.com/lulab/intranet/projects/1?fullscreen=true) <sup>Private</sup>
   * Metadata etc <sup>Private</sup>
-* [Lab Files and Docs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
+  * [Lab Files and Docs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
 You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
 
