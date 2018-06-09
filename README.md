@@ -7,23 +7,26 @@
 * [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg)
 * [FAQ](https://lulab.github.io/FAQ)
 
-📖 **Learning** 
-
-* [Lab **Training**](https://lulab.github.io/training) @ github
-* [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
-
 📈 **Research** 
 
 * Meetings: Lab Calendars @ Google Calendar \([subscribe Calendars in your app](https://lulab.github.io/cal)\)
+  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)
   * [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 * Notes: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
+
+📖 **Learning** 
+
+* [Lab **Training**](https://lulab.github.io/training) @ github
+   * 🚩[to-do](https://github.com/lulab/training/projects/1?fullscreen=true)
+* [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
 
 
 ## Level 2 - Lu Lab Intranet
 
 * [**Intranet** of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
-  * Metadata @ Google Drive <sup>Private</sup>
+  * 🚩[**to do**](https://github.com/lulab/intranet/projects/1?fullscreen=true) <sup>Private</sup>
+  * Metadata etc <sup>Private</sup>
 * [Lab Files and Docs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
 You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
