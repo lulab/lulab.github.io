@@ -10,16 +10,16 @@
 📈 **Research** 
 
 * Meetings: Lab Calendars @ Google Calendar \([subscribe Calendars in your app](https://lulab.github.io/cal)\)
-  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)
+  * 🚩[**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)
   * [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
-* Notes: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
 
 📖 **Learning** 
 
-* [Lab **Training**](https://lulab.github.io/training) @ github
-   * 🚩[to-do](https://github.com/lulab/training/projects/1?fullscreen=true)
 * [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
+* [Lab **Training**](https://lulab.github.io/training) @ github
+   * 🚩[**to-do**](https://github.com/lulab/training/projects/1?fullscreen=true)
+* [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
 
 
 ## Level 2 - Lu Lab Intranet
