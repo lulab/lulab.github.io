@@ -1,4 +1,4 @@
-# Lab Guide 
+# Laboratory Guide 
 
 ## Level 1 - How to Start in Lu Lab
 
