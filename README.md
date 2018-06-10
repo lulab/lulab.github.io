@@ -2,6 +2,8 @@
 
 > [Lu Lab](http://bioinfo.life.tsinghua.edu.cn) @ Tsinghua University
 
+---
+
 ## Level 1 - How to Start in Lu Lab
 
 🎉 **Welcome** 
