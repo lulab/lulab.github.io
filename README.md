@@ -14,7 +14,7 @@
 📈 **Research** 
 
 * 🚩[**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)
-* [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \([subscribe Calendars in your app](https://lulab.github.io/cal)\)
+* [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \([how to subscribe calendars](https://lulab.github.io/cal)\)
 * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 
 📖 **Learning** 
