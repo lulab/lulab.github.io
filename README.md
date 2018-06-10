@@ -1,6 +1,6 @@
 # Laboratory Guide 
 
-> [Lu Lab](http://bioinfo.life.tsinghua.edu.cn) @ Tsinghua University
+[Lu Lab](http://bioinfo.life.tsinghua.edu.cn) @ Tsinghua University
 
 ---
 
@@ -33,7 +33,7 @@
   * Metadata etc <sup>Private</sup>
   * [Lab Files and Docs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
-You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
+> You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
 
 
 
@@ -45,10 +45,9 @@ hosted with github
 * [COME](https://github.com/lulab/COME) 2016
 * [RME](https://github.com/lulab/RME) 2015
 
---
+> More Personal Projects/Scripts
 
-* More Personal Projects/Scripts
-  * [PI](http://urluzhi.github.io/scripts) 
+* [PI](http://urluzhi.github.io/scripts) 
 
 
 ---
@@ -64,8 +63,6 @@ hosted with github
 
 ---
 
-> [Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
-> | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables)
-> | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+[Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables) | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
 
