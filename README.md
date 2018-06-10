@@ -13,10 +13,9 @@
 
 📈 **Research** 
 
-* Meetings: Lab Calendars @ Google Calendar \([subscribe Calendars in your app](https://lulab.github.io/cal)\)
-  * 🚩[**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)
-  * [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai)
-  * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
+* 🚩[**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)
+* [Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \([subscribe Calendars in your app](https://lulab.github.io/cal)\)
+* [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 
 📖 **Learning** 
 
@@ -28,12 +27,9 @@
 
 ## Level 2 - Lu Lab Intranet
 
-* [**Intranet** of Lu Lab](http://lulab.github.io/intranet) <sup>Private</sup>
+* [Lab **Intranet**](http://lulab.github.io/intranet) <sup>Private</sup>
   * 🚩[**to do**](https://github.com/lulab/intranet/projects/1?fullscreen=true) <sup>Private</sup>
-  * Metadata etc <sup>Private</sup>
-  * [Lab Files and Docs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
-
-> You will need to request a permission to view/edit the internal projects <sup>Private</sup>.
+* [Lab Files and Docs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
 
 
@@ -63,6 +59,6 @@ hosted with github
 
 ---
 
-[Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) | [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables) | [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+[Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \| [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables) \| [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
 
 
