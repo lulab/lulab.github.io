@@ -22,7 +22,7 @@
 * [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
 * [Lab **Training**](https://lulab.github.io/training) @ github
    * 🚩[**to-do**](https://github.com/lulab/training/projects/1?fullscreen=true)
-   * 🚩**Tutorial**: [Basic](https://lulab.gitbook.io/training); [Advanced](https://lulab.gitbooks.io/bioinfo/content/)
+   * 🚩**Tutorial**: [Basics](https://lulab.gitbooks.io/bioinfo/content/); [Advanced](https://lulab.gitbook.io/training) 
 * [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) @ EverNote
 
 
