@@ -50,7 +50,7 @@
 * 《高中教师培训课》—  1hr
 
 
-## Autumn Semester 秋季学期 - 2017
+## Autumn Semester 秋季学期 
 
 ### Advanced Courses  博士生课程
 
