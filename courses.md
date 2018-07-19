@@ -6,14 +6,14 @@
 
 ---
 
-#### I. Bioinformatics and Systems Biology《生物信息和系统生物学》
+#### I. Bioinformatics in Action《生物信息学实践》
 
 讲授单元：生物信息学基本方法和算法 -- 9hr
 
 -   时间：春季学期 (后8周） 
--   学时：48 
--   学分：3
--   主讲：杨雪瑞等 
+-   学时：32 
+-   学分：2
+-   主讲：鲁志等 
 -   对象：清华博士生
 
 #### II. RNA Biology《RNA生物学》
@@ -26,19 +26,7 @@
 -   主讲：戚益军等 
 -   对象：清华博士生
 
-### Advanced Courses  硕士生课程
 
----
-
-#### I.《现代生命科学与生物工程进展》
-
-讲授单元：生物信息学简介 -- 4hr
-
--   时间：春季学期
--   学时：32 
--   学分：2
--   主讲：邢新会等 
--   对象：日本留学硕士生
 
 ### Basic Courses 本科生课程
 
@@ -81,10 +69,6 @@
 
 -   [课件和作业下载](https://www.jianguoyun.com/p/DTCJc-gQ0NLuBRj9kQ4#dir=%2F2016%2F%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E5%AF%BC%E8%AE%BA-PTN::mode=0)
 
-助教信息
-
--   助教：王思琦
--   邮箱：zzuwsq AT [163.com](http://163.com)
 
 PTN学生上课要求
 
@@ -108,10 +92,7 @@ PTN学生上课要求
 -   对象：大三大四为主的本科生， 专业选修课
 -   教学资源：[课件和作业下载](https://www.jianguoyun.com/p/DTCJc-gQ0NLuBRj9kQ4#dir=%2F2016%2F%E5%9F%BA%E5%9B%A0%E7%BB%84%E5%AD%A6%E5%AF%BC%E8%AE%BA-PTN::mode=0)
 
-助教信息
 
--   助教：曹静怡
--   邮箱：cjy16 AT [mails.tsinghua.edu.cn](http://mails.tsinghua.edu.cn)
 
 #### II. Frontier of Life Sciences 《生命科学前沿》
 
