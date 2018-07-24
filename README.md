@@ -9,6 +9,7 @@
 🎉 **Welcome** 
 
 * [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg)
+* [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U)
 * [FAQ](https://lulab.github.io/FAQ)
 
 📈 **Research** 
