@@ -14,22 +14,22 @@
 
 📈 **Research** 
 
-* Calendars (🚩[**Group Meeting Schedule**](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)):
+* Calendars (🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)):
   * [Lu Lab Meetings and Events](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 
 📖 **Learning** 
 
 * [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
-* Lab [**Training**](https://lulab.github.io/training) (🚩[**to-do**](https://github.com/lulab/training/projects/1?fullscreen=true))
-   * **Tutorial**: [Basics](https://lulab.gitbooks.io/bioinfo/content/); [Advanced](https://lulab.gitbook.io/training) ([Github](https://github.com/lulab/training))
-   * **Learning Materials**: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes); [Self-study Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
-   * [**Literature Reading**](https://cloud.tsinghua.edu.cn/d/13654a5cc397495d98be/)
+* [Lab Training](https://lulab.github.io/training) (🚩[to-do](https://github.com/lulab/training/projects/1?fullscreen=true))
+   * Tutorials: [Basics](https://lulab.gitbooks.io/bioinfo/content/); [Advanced](https://lulab.gitbook.io/training) ([Github](https://github.com/lulab/training))
+   * Learning Materials: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes); [Self-study Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
+   * [Literature Reading](https://cloud.tsinghua.edu.cn/d/13654a5cc397495d98be/)
 
 
 ## Level 2 - Lu Lab Intranet
 
-* [Lab **Intranet**](http://lulab.github.io/intranet) <sup>Private</sup> (🚩[**to do**](https://github.com/lulab/intranet/projects/1?fullscreen=true))
+* [Lab Intranet](http://lulab.github.io/intranet) <sup>Private</sup> (🚩[to do](https://github.com/lulab/intranet/projects/1?fullscreen=true))
   * [intranet wiki](https://github.com/lulab/intranet/wiki) <sup>Private</sup>
   * [Papers for Literature Reading](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/)<sup>Public</sup> @ [Tsinghua Cloud]
   (https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
