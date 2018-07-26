@@ -34,7 +34,7 @@
 * [Lab **Intranet**](http://lulab.github.io/intranet) <sup>Private</sup>
   * 🚩[**to do**](https://github.com/lulab/intranet/projects/1?fullscreen=true) <sup>Private</sup>
   * [intranet wiki](https://github.com/lulab/intranet/wiki) <sup>Private</sup>
-  * [Papers (PDF files) for Literature Reading](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/)<sup>Public</sup> @ [Tsinghua Cloud]
+  * [Papers for Literature Reading](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/)<sup>Public</sup> @ [Tsinghua Cloud]
   (https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
 
