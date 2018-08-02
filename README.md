@@ -29,6 +29,7 @@
 
 ## Level 2 - Lu Lab Intranet
 
+* [Projects & People](https://www.evernote.com/l/ABIzDmxWoeZDC4T3dMoiGqzgNYENpX3Nvl0)
 * [Lab Intranet](http://lulab.github.io/intranet) <sup>Private</sup> (🚩[to do](https://github.com/lulab/intranet/projects/1?fullscreen=true))
   * [intranet wiki](https://github.com/lulab/intranet/wiki) <sup>Private</sup>
   * [Papers for Literature Reading](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/)<sup>Public</sup> @ [Tsinghua Cloud]
