@@ -22,8 +22,8 @@
 
 * [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
 * [Lab Training](https://lulab.github.io/training) (🚩[to-do](https://github.com/lulab/training/projects/1?fullscreen=true))
-   * Tutorials: [Basics](https://lulab.gitbooks.io/bioinfo/content/); [Advanced](https://lulab.gitbook.io/training)
-   * Learning Materials: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes); [Self-study Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
+   * Tutorials: [Basics](https://lulab.gitbooks.io/bioinfo/content/)  \|  [Advanced](https://lulab.gitbook.io/training)
+   * Learning Materials: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Self-study Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
    * [Literature Reading](https://cloud.tsinghua.edu.cn/d/13654a5cc397495d98be/)
 
 
