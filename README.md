@@ -58,7 +58,7 @@ hosted with github
 > * e-mai: lulab AT biomed.tsinghua.edu.cn
 > * Hompage: [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn)
 > * Github: [http://lulab.github.io](http://lulab.github.io)
-> * Books: [http://lulab.gitbooks.io](http://lulab.gitbooks.io)
+> * Books: V1: [http://lulab.gitbooks.io](http://lulab.gitbooks.io) ; V2: [http://lulab.gitbook.io](http://lulab.gitbook.io)
 > * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
 
 
