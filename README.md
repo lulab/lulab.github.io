@@ -4,7 +4,7 @@
 
 ---
 
-## Level 1 - How to Start in Lu Lab
+## Level 1 - How to Start in Lu Lab {#L1}
 
 🎉 **Welcome** 
 
@@ -24,7 +24,7 @@
 * [Lab Training](https://lulab.github.io/training) (🚩[to-do](https://github.com/lulab/training/projects/1?fullscreen=true))
    * Tutorials: [Basics](https://lulab.gitbooks.io/teaching)  \|  [Advanced](https://lulab.gitbook.io/training)
    * Learning Materials: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Self-study Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
-   * [Literature Reading](https://cloud.tsinghua.edu.cn/d/13654a5cc397495d98be/)
+   * [Literature Reading](https://cloud.tsinghua.edu.cn/d/13654a5cc397495d98be/) {#Lit_Read}
 
 
 ## Level 2 - Lu Lab Intranet
