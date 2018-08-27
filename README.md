@@ -6,19 +6,19 @@
 
 ## Level 1 - How to Start in Lu Lab {#L1}
 
-### 🎉 **Welcome** 
+### 🎉 **Welcome** {#Welcome}
 
 * [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg) <sup>downloadable</sup>
 * [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ)
 
-### 📈 **Research** 
+### 📈 **Research** {#Research}
 
 * Calendars (🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/785257061e59411fbbfd/)):
   * [Lu Lab Meetings and Events](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 
-### 📖 **Learning** 
+### 📖 **Learning**  {#Learning}
 
 * [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua
 * [Lab Training](https://lulab.github.io/training) (🚩[to-do](https://github.com/lulab/training/projects/1?fullscreen=true))
