@@ -112,7 +112,7 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
-#### I. Biophysics 《生物物理学》
+#### Biophysics 《生物物理学》
 ---
 
 讲授单元：RNA结构的生物物理学基础 -- 6hr
