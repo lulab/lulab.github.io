@@ -97,7 +97,7 @@ PTN学生上课要求
 -   主讲：鲁志等 
 -   对象：清华博士生
 
-#### II. RNA Biology《RNA生物学》{#RNA}
+#### II. RNA Biology《RNA生物学》 {#RNA}
 ---
 
 讲授单元：RNA生物信息学 -- 2hr
