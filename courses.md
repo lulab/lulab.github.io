@@ -60,7 +60,7 @@
 
 ### Advanced Courses  博士生课程
 
-#### Introduction to Genomics - PTN 《基因组学导论-PTN》{#PTN}
+#### Introduction to Genomics - PTN 《基因组学导论-PTN》 {#PTN}
 ---
 
 讲授单元：PTN基础课 -- 8hr
@@ -86,7 +86,7 @@ PTN学生上课要求
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics in Action《生物信息学实践》{#bioinfo2}
+#### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo2}
 ---
 
 讲授单元：生物信息学基本方法和算法
@@ -112,7 +112,7 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
-#### Biophysics 《生物物理学》{#biophysics}
+#### Biophysics 《生物物理学》 {#biophysics}
 ---
 
 讲授单元：RNA结构的生物物理学基础 -- 6hr
