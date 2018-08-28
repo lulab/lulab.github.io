@@ -4,7 +4,7 @@
 
 ### Basic Courses 本科生课程
 
-#### I. Introduction to Bioinformatics 《生物信息学导论》
+#### I. Introduction to Bioinformatics 《生物信息学导论》 {#bioinfo}
 ---
 
 主讲课程
@@ -20,7 +20,7 @@
 
 **【Teaching Philosophy】**
 
-“Study and Practice”  格物致知 | 知行合一 
+“Study and Practice”  格物致知 \| 知行合一 
 
 > We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
 
@@ -60,7 +60,7 @@
 
 ### Advanced Courses  博士生课程
 
-#### Introduction to Genomics - PTN 《基因组学导论-PTN》
+#### Introduction to Genomics - PTN 《基因组学导论-PTN》{#PTN}
 ---
 
 讲授单元：PTN基础课 -- 8hr
@@ -86,7 +86,7 @@ PTN学生上课要求
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics in Action《生物信息学实践》
+#### I. Bioinformatics in Action《生物信息学实践》{#bioinfo2}
 ---
 
 讲授单元：生物信息学基本方法和算法
@@ -97,7 +97,7 @@ PTN学生上课要求
 -   主讲：鲁志等 
 -   对象：清华博士生
 
-#### II. RNA Biology《RNA生物学》
+#### II. RNA Biology《RNA生物学》{#RNA}
 ---
 
 讲授单元：RNA生物信息学 -- 2hr
@@ -112,7 +112,7 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
-#### Biophysics 《生物物理学》
+#### Biophysics 《生物物理学》{#biophysics}
 ---
 
 讲授单元：RNA结构的生物物理学基础 -- 6hr
