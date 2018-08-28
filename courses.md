@@ -4,9 +4,8 @@
 
 ### Basic Courses 本科生课程
 
----
-
 #### I. Introduction to Bioinformatics 《生物信息学导论》
+---
 
 主讲课程
 
@@ -43,6 +42,7 @@
 
 
 #### II. Frontier of Life Sciences 《生命科学前沿》
+---
 
 讲授单元：生物信息和基因组学介绍 -- 2hr
 
@@ -60,9 +60,8 @@
 
 ### Advanced Courses  博士生课程
 
----
-
 #### Introduction to Genomics - PTN 《基因组学导论-PTN》
+---
 
 讲授单元：PTN基础课 -- 8hr
 
@@ -87,9 +86,8 @@ PTN学生上课要求
 
 ### Advanced Courses  博士生课程
 
----
-
 #### I. Bioinformatics in Action《生物信息学实践》
+---
 
 讲授单元：生物信息学基本方法和算法
 
@@ -100,6 +98,7 @@ PTN学生上课要求
 -   对象：清华博士生
 
 #### II. RNA Biology《RNA生物学》
+---
 
 讲授单元：RNA生物信息学 -- 2hr
 
@@ -113,9 +112,8 @@ PTN学生上课要求
 
 ### Basic Courses 本科生课程
 
----
-
 #### I. Biophysics 《生物物理学》
+---
 
 讲授单元：RNA结构的生物物理学基础 -- 6hr
 
@@ -125,9 +123,8 @@ PTN学生上课要求
 -   主讲：龚海鹏等 
 -   对象：大三大四本科生， 专业选修课
 
-### Other Courses 其他课程
 
----
+### Other Courses 其他课程
 
 * 《高中生奥林匹克竞赛考察课》— 1 hr
 * 《高中教师培训课》—  1hr
