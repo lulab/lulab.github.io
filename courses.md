@@ -22,7 +22,8 @@
 **【Teaching Philosophy】**
 
 “Study and Practice”  格物致知 | 知行合一 
-We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
+
+> We teach professional skills in bioinformatics. These skills are not just running software. They will give you freedom of exploring various real data.
 
 
 **【课程简介】**
@@ -33,7 +34,12 @@ We teach professional skills in bioinformatics. These skills are not just runnin
 
 该课程除了理论教学，加强补充了实践练习的训练环节，更强调学生对生物信息学实际应用的实践学习和上机练习，在往年基础上加大了课程的挑战性和实用性。
 
+**【预修课程准备】**
 
+1. 基本生物课程： 如《遗传学》和/或《分子生物学》
+2. 基本统计课程： 如《概率论》和/或《生物统计》
+3. 基本数学课程： 如《线性代数》
+4. 基本计算机课程：如《C语言》
 
 
 #### II. Frontier of Life Sciences 《生命科学前沿》
