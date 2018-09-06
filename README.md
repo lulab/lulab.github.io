@@ -8,7 +8,7 @@
 
 ### 🎉 **Welcome** {#Welcome}
 
-* [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg) <sup>downloadable</sup>
+* [Lab Manual](https://cloud.tsinghua.edu.cn/f/d48e8cdb0803439186ca/) <sup>downloadable</sup>
 * [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ)
 
