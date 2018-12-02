@@ -32,14 +32,15 @@
 * [Projects & People](https://www.evernote.com/l/ABIzDmxWoeZDC4T3dMoiGqzgNYENpX3Nvl0) ([Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ))
 * [Lab Intranet](http://lulab.github.io/intranet) <sup>Private</sup> (🚩[to do](https://github.com/lulab/intranet/projects/1?fullscreen=true))
   * [intranet wiki](https://github.com/lulab/intranet/wiki) <sup>Private</sup>
-  * [Papers for Literature Reading](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/)<sup>Public</sup>  @ [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
+  * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
 
 
 
 
 ## Level 3- Lu Lab Public Projects/Software {#L3}
-hosted with github
+
+**[http://software.ncrnalab.org](http://software.ncrnalab.org)**
 
 * [Ribowave](http://lulab.github.io/Ribowave) 2018
 * [RBPgroup](https://github.com/lulab/RBPgroup) 2017
