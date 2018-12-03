@@ -72,7 +72,7 @@
 
 教学资源
 
-- [课件下载](https://cloud.tsinghua.edu.cn/d/f361101fc62e49df960b/)
+- [课件下载](https://cloud.tsinghua.edu.cn/d/f361101fc62e49df960b/?p=/genomics-PTN%202018&mode=list)
 - 作业:
 
 > [阅读文献下载](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup&mode=list)
