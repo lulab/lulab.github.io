@@ -77,7 +77,9 @@ PTN学生上课要求
 教学资源
 
 - [课件下载](https://cloud.tsinghua.edu.cn/d/f361101fc62e49df960b/?p=/genomics-PTN%202018&mode=list)
-- 作业:
+
+作业
+
 > 文献阅读:  (**Due: Dec. 31.**)
 Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 related papers in the topic.  
 (Please list the key points of your thoughts in the last paragraph.)
