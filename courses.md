@@ -81,10 +81,10 @@ PTN学生上课要求
 作业
 
 > 文献阅读:  (**Due: Dec. 31.**)
-Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 related papers in the topic.  
-(Please list the key points of your thoughts in the last paragraph.)
+Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 related papers in the topic. (Please list the key points of your thoughts in the last paragraph.)
 >  * Topic I:  RNA Regulation
 >  * Topic II: Precision Medicine
+>
 > [阅读文献下载](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup&mode=list)
 
 
