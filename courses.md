@@ -70,17 +70,20 @@
 -   主讲：鲁志 
 -   对象：北大-清华-NIBS 博士生
 
+PTN学生上课要求
+
+-   基础课1-14选择其中10门上课，任选其中4门交作业，平均分记在选课系统中现代生物学基础和分子细胞生物学研究进展成绩上。
+
 教学资源
 
 - [课件下载](https://cloud.tsinghua.edu.cn/d/f361101fc62e49df960b/?p=/genomics-PTN%202018&mode=list)
 - 作业:
-
+> 文献阅读:  (**Due: Dec. 31.**)
+Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 related papers in the topic.  
+(Please list the key points of your thoughts in the last paragraph.)
+>  * Topic I:  RNA Regulation and Epigenetics
+>  * Topic II: Precision Medicine
 > [阅读文献下载](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup&mode=list)
-
-
-PTN学生上课要求
-
--   基础课1-14选择其中10门上课，任选其中4门交作业，平均分记在选课系统中现代生物学基础和分子细胞生物学研究进展成绩上。
 
 
 
