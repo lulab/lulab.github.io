@@ -61,13 +61,13 @@
 题千万不要问。PI的角色是宏观的把握课题方向，论证科研思路，所以一旦自己有了想法要多和PI沟通，确定自己的课题。总结下来就是要做到主
 动思考，态度认真。
 
-* ** How to remove cache of a redirect site? **
+* **How to remove cache of a redirect site?**
 
 View --> Developer --> Developer Tools 
 
 --> Settings (click upright corner)
 
-check "disable cache"
+check "[disable cache](https://lulab.github.io/img/cache.png)"
 
 
-https://lulab.github.io/img/cache.png
+
