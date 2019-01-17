@@ -15,7 +15,7 @@
 ### 📈 **Research** {#Research}
 
 * Meetings & Calendars
-  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/))
+  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/)
   * [Lu Lab Meetings and Events](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 * Projects
@@ -26,7 +26,7 @@
 
 * [Courses](https://lulab.github.io/courses) @ Tsinghua  \| [Training](https://lulab.github.io/training) ([to-do](https://github.com/lulab/training/projects/1?fullscreen=true)) @ Lu Lab
   * Tutorials: [Basic](https://lulab2.gitbook.io/teaching)  \|  [Advanced](https://lulab.gitbook.io/training)
-* Self-learning: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
+* Self Learning: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
 * **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) \| [Tip: how to search on Pubmed](http://lulab.github.io/reading))
    * [RNA Regulation Study](http://lulab.github.io/RNA/literature)
    * [exRNA Study](http://lulab.github.io/exRNA/literature)
