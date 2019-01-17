@@ -19,7 +19,7 @@
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 * Projects
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
-  * Direction II: [Precision Medicine: exRNA Biomarker](http://lulab.github.io/exRNA)
+  * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
 
 ### 📖 **Learning**  {#Learning}
 
