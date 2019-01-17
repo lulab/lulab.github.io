@@ -14,7 +14,8 @@
 
 ### 📈 **Research** {#Research}
 
-* Calendars (🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/)):
+* Meetings & Calendars
+  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/))
   * [Lu Lab Meetings and Events](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
   * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)
 * Projects
@@ -23,10 +24,10 @@
 
 ### 📖 **Learning**  {#Learning}
 
-* [Course Schedules ](https://lulab.github.io/courses) @ Tsinghua  \| [Lab Training](https://lulab.github.io/training): [to-do](https://github.com/lulab/training/projects/1?fullscreen=true)
-* Tutorials: [Basic](https://lulab2.gitbook.io/teaching)  \|  [Advanced](https://lulab.gitbook.io/training)
-* Learning Materials: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Self-study Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
-* Literature Reading ([PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) \| [Tip: how to search on Pubmed](http://lulab.github.io/reading))
+* [Courses](https://lulab.github.io/courses) @ Tsinghua  \| [Training](https://lulab.github.io/training) ([to-do](https://github.com/lulab/training/projects/1?fullscreen=true)) @ Lu Lab
+  * Tutorials: [Basic](https://lulab2.gitbook.io/teaching)  \|  [Advanced](https://lulab.gitbook.io/training)
+* Self-learning: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
+* **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) \| [Tip: how to search on Pubmed](http://lulab.github.io/reading))
    * [RNA Regulation Study](http://lulab.github.io/RNA/literature)
    * [exRNA Study](http://lulab.github.io/exRNA/literature)
 
@@ -36,8 +37,9 @@
 
 ## Level 2 - Lu Lab Intranet {#L2}
 
-* [Projects & People](https://www.evernote.com/l/ABIzDmxWoeZDC4T3dMoiGqzgNYENpX3Nvl0) ([Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ))
-* [Lab Intranet](http://lulab.github.io/intranet) <sup>Private</sup> (🚩[to do](https://github.com/lulab/intranet/projects/1?fullscreen=true))
+* [Projects & People](https://www.evernote.com/l/ABIzDmxWoeZDC4T3dMoiGqzgNYENpX3Nvl0) \| [Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)
+* [Lab Intranet](http://lulab.github.io/intranet) <sup>Private</sup>
+  * 🚩[to do](https://github.com/lulab/intranet/projects/1?fullscreen=true)
   * [intranet wiki](https://github.com/lulab/intranet/wiki) <sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
@@ -49,14 +51,14 @@
 
 **[http://software.ncrnalab.org](http://software.ncrnalab.org)**
 
-* [Ribowave](http://lulab.github.io/Ribowave) 2018
-* [RBPgroup](https://github.com/lulab/RBPgroup) 2017
-* [COME](https://github.com/lulab/COME) 2016
-* [RME](https://github.com/lulab/RME) 2015
+  * [Ribowave](http://lulab.github.io/Ribowave) 2018
+  * [RBPgroup](https://github.com/lulab/RBPgroup) 2017
+  * [COME](https://github.com/lulab/COME) 2016
+  * [RME](https://github.com/lulab/RME) 2015
 
 > More Personal Projects/Scripts
-
-* [PI](http://urluzhi.github.io/scripts) 
+>
+>  * [PI](http://urluzhi.github.io/scripts) 
 
 
 ---
