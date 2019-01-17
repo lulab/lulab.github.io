@@ -51,10 +51,10 @@
 
 **[http://software.ncrnalab.org](http://software.ncrnalab.org)**
 
-  * [Ribowave](http://lulab.github.io/Ribowave) 2018
-  * [RBPgroup](https://github.com/lulab/RBPgroup) 2017
-  * [COME](https://github.com/lulab/COME) 2016
-  * [RME](https://github.com/lulab/RME) 2015
+  * [RNAfinder: RiboWave](http://lulab.github.io/Ribowave) 2018
+  * [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017
+  * [RNAfinder: COME](https://github.com/lulab/COME) 2016
+  * [RNAstructurome: RME](https://github.com/lulab/RME) 2015
 
 > More Personal Projects/Scripts
 >
