@@ -8,9 +8,9 @@
 
 ### 🎉 **Welcome** {#Welcome}
 
-* [Lab Manual](https://cloud.tsinghua.edu.cn/f/d48e8cdb0803439186ca/) <sup>downloadable</sup>
+* [Lab Manual](https://cloud.tsinghua.edu.cn/f/d48e8cdb0803439186ca/) <sup>downloadable</sup> ([清华校历和地图](https://www.evernote.com/l/ABKkZPq-N2FLorI9jcAK2VdOii7RVw-qwao))
 * [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U) <sup>online-only</sup>
-* [FAQ](https://lulab.github.io/FAQ)
+* [FAQ](https://lulab.github.io/FAQ) 
 
 ### 📈 **Research** {#Research}
 
