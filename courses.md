@@ -2,19 +2,21 @@
 
 ## Autumn Semester 秋季学期 
 
-### Basic Courses 本科生课程
+### Advanced Courses  博士生课程
 
-#### I. Introduction to Bioinformatics 《生物信息学导论》 {#bioinfo}
+#### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo}
+
+> 本课程也设有一定的本科生容量，原本科《生物信息学导论》课并入其中
+
 ---
 
 主讲课程
 
--   时间：秋季学期前8周，周一第四大节（15：20-16：55）、周五第四大节（15：20-16：55）
--   地点：清华三教1205（第一次上机课安排在学校计算机房；以后上机课需要自带笔记本电脑）  
+-   时间：秋季学期
 -   学时：32 
 -   学分：2
--   主讲：鲁志 
--   对象：本科生容量30人，研究生容量5人， 专业选修课
+-   主讲：鲁志等 
+-   对象：研究生容量20-30人，本科生容量5-15人 
 -   [教学日历和资源](https://www.evernote.com/l/ABJ1_LKqbc1NAaoFohtSR0SXi2Vh3RbVNrg)
 
 
@@ -41,26 +43,7 @@
 4. 基本计算机课程：如《C语言》
 
 
-#### II. Frontier of Life Sciences 《生命科学前沿》
----
-
-讲授单元：生物信息和基因组学介绍 -- 2hr
-
--   时间：秋季学期 
--   学时：2/32 
--   学分：2
--   主讲：施一公等 
--   对象：大一新生
-
-**【课程简介】**
-
-本课程重点介绍生命科学前沿领域生化、细胞、发育、遗传、免疫、化生、生物物理、系统生物学等的发展历史、现状、及展望，使学生对基本生命科学的概貌有较全面了解。本课程重在训练学生思维及逻辑，普及作为生命学科的本科生应该了解专业内容。
-
-
-
-### Advanced Courses  博士生课程
-
-#### Introduction to Genomics - PTN 《基因组学导论-PTN》 {#PTN}
+#### II. Introduction to Genomics - PTN 《基因组学导论-PTN》 {#PTN}
 ---
 
 讲授单元：PTN基础课 -- 8hr
@@ -88,13 +71,32 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 > [阅读文献下载](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup&mode=list)
 
 
+### Basic Courses 本科生课程
+
+#### I. Frontier of Life Sciences 《生命科学前沿》
+---
+
+讲授单元：生物信息和基因组学介绍 -- 2hr
+
+-   时间：秋季学期 
+-   学时：2/32 
+-   学分：2
+-   主讲：施一公等 
+-   对象：大一新生
+
+**【课程简介】**
+
+本课程重点介绍生命科学前沿领域生化、细胞、发育、遗传、免疫、化生、生物物理、系统生物学等的发展历史、现状、及展望，使学生对基本生命科学的概貌有较全面了解。本课程重在训练学生思维及逻辑，普及作为生命学科的本科生应该了解专业内容。
+
+
+
 
 
 ## Spring Semester 春季学期
 
 ### Advanced Courses  博士生课程
 
-#### I. Bioinformatics in Action《生物信息学实践》 {#bioinfo2}
+#### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
 ---
 
 讲授单元：生物信息学基本方法和算法
@@ -102,7 +104,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 -   时间：春季学期 (后8周） 
 -   学时：32 
 -   学分：2
--   主讲：鲁志等 
+-   主讲：杨雪瑞等 
 -   对象：清华博士生
 
 #### II. RNA Biology《RNA生物学》 {#RNA}
@@ -120,7 +122,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 
 ### Basic Courses 本科生课程
 
-#### Biophysics 《生物物理学》 {#biophysics}
+#### I. Biophysics 《生物物理学》 {#biophysics}
 ---
 
 讲授单元：RNA结构的生物物理学基础 -- 6hr
