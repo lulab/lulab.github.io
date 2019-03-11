@@ -99,7 +99,7 @@ Pick 1 topic and write a review/perspective paper (1-2 pages) about the 1-2 rela
 #### I. Bioinformatics and Systems Biology《生物信息学和系统生物学》 {#bioinfo2}
 ---
 
-讲授单元：生物信息学基本方法和算法
+讲授单元：生物信息学基本方法和算法 -- 6hr
 
 -   时间：春季学期 (后8周） 
 -   学时：32 
