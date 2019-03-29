@@ -37,9 +37,9 @@
 
 ## Level 2 - Lu Lab Intranet {#L2}
 
-* [Projects & People](https://www.evernote.com/l/ABIzDmxWoeZDC4T3dMoiGqzgNYENpX3Nvl0) \| [Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)
-* [Lab Intranet](http://lulab.github.io/intranet) <sup>Private</sup>
-  * 🚩[to do](https://github.com/lulab/intranet/projects/1?fullscreen=true)
+* [People, Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ#Contacts_and_Seats)
+* Lab Intranet<sup>Private</sup>
+  * 🚩[to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)
   * [intranet wiki](https://github.com/lulab/intranet/wiki) <sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn) <sup>Private</sup> ([App Download](https://www.seafile.com/download))
 
