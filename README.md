@@ -11,7 +11,7 @@
 * [Lab Manual](https://cloud.tsinghua.edu.cn/f/d48e8cdb0803439186ca/) <sup>downloadable</sup> ([清华校历和地图](https://www.evernote.com/l/ABKkZPq-N2FLorI9jcAK2VdOii7RVw-qwao))
   * [Wet-lab Regulation](https://cloud.tsinghua.edu.cn/lib/5c9aa4b1-facf-4466-9b74-81a0fe5678da/file/wet-lab%E7%AE%A1%E7%90%86%E5%88%B6%E5%BA%A6.docx)  
   * [Wet-lab Safety-guide](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines)<sup>private</sup> 
-* [实验室安全指南](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines)<sup>private</sup> 
+* [实验室安全指南](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines) 
 * [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ) 
 
