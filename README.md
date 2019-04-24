@@ -18,8 +18,8 @@
 
 * Meetings & Calendars
   * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/)
-  * [Lu Lab Meetings and Events](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \([谷歌访问助手](http://www.ggfwzs.com)\)
-  * [Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)   \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
+  * [Lu Lab Meetings and Events @ Google Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai) \([谷歌访问助手](http://www.ggfwzs.com)\)
+  * [Tsinghua Biomedical Seminars @ Google Calendar](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai)   \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
