@@ -1,2 +1,0 @@
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&amp;color=%238C500B&amp;src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Asia%2FShanghai" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
