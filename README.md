@@ -29,7 +29,7 @@
 * [Courses](https://lulab.github.io/courses) @ Tsinghua  
 * Training @ Lu Lab
   * [Basic Tutorial](https://lulab2.gitbook.io/teaching)
-  * [Advanced Training](https://lulab.github.io/RNA/#Bioinfo)
+  * [Advanced Tutorial](https://lulab.gitbook.io/training)
 * Self Learning: [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) \| [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
 * **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) \| [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/) \| [Tip: how to search on Pubmed](http://lulab.github.io/reading))
    * [RNA Regulation Studies](http://lulab.github.io/RNA/literature)
