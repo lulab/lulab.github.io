@@ -37,9 +37,9 @@
 
 待遇丰厚，科研平台基础高。可通过协助申请以下一个或多个**人才支持计划**以及**产业化方向支持计划**进行聘用，提供具有国际竞争力的待遇和科研资助：
 
-1. 中国博士后创新人才支持计划: http://postdoctor.tsinghua.edu.cn/info/zxtz/1723
-2. 清华大学水木学者支持计划：http://postdoctor.tsinghua.edu.cn/thu/index.htm
-3. 清华大学-北京大学生命科学联合中心博士后基金: http://www.cls.edu.cn/Academicactivities/notices/index4438.shtml
+1. [中国博士后创新人才支持计划](http://postdoctor.tsinghua.edu.cn/info/zxtz/1723)
+2. [清华大学水木学者支持计划](http://postdoctor.tsinghua.edu.cn/thu/index.htm)
+3. [清华大学-北京大学生命科学联合中心博士后基金](http://www.cls.edu.cn/Academicactivities/notices/index4438.shtml)
 4. 产学研结合，产业化方向资助
 
 应聘者将本人简历以及可以开始工作的时间通过电子邮件发：lulab1 AT tsinghua.edu.cn 
