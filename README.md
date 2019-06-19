@@ -18,8 +18,7 @@
 
 * Meetings & Calendars
   * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/)
-  * [Lu Lab Meetings and Events @ icloud Calendar](webcal://p65-calendars.icloud.com/published/2/MTE3OTczNTgzNjExNzk3MzUCL8bJDLFgD74GSfo9rMaTGOosu4FUvT9QGkCzQlWrSkfe4gMFjFr1BSnOwYO9Vr88y3L2VPm5ZjvWmS18pwI)  \(see [how to subscribe calendars](https://lulab.github.io/cal)\)
-  * [Tsinghua Biomedical Seminars @ icloud Calendar](webcal://p65-calendars.icloud.com/published/2/MTE3OTczNTgzNjExNzk3MzUCL8bJDLFgD74GSfo9rMbuhosXbSYoxlSfXG4pGM5q0Ov6CLRNJIfcfxrYUjOBxR2_3ctr0flSrQEhfJniRGU)   
+  * Lu Lab Calendars: see [how to subscribe calendars](https://lulab.github.io/cal)   
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
