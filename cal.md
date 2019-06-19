@@ -1,34 +1,19 @@
-# Calendars for Lu Lab
-
-> ([谷歌访问助手](http://www.ggfwzs.com)\)
-
-<iframe src="https://calendar.google.com/calendar/embed?showTitle=0&amp;showNav=0&amp;height=600&amp;wkst=1&amp;bgcolor=%23FFFFFF&amp;src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&amp;color=%238C500B&amp;src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&amp;color=%232952A3&amp;ctz=Asia%2FShanghai" style="border-width:0" width="800" height="600" frameborder="0" scrolling="no"></iframe>
-
+## Calendars for Lu Lab
 
 > You can copy the following links (**ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer.
 > Apps:
-> -   Web Browser: Google Calendar
-> -   Windows APP: Outlook
+> -   Windows APP: Outlook Calendar
 > -   MAC APP: Calendar
 > -   iPhone APP: Calendar
-> -   Android APP: Google Calendar/Newton
+> -   Android APP: SOL Calendar, etc
 
 
-## Calendar of Lu Lab Events
+* **Lu Lab Events**: webcal://p65-calendars.icloud.com/published/2/MTE3OTczNTgzNjExNzk3MzUCL8bJDLFgD74GSfo9rMaTGOosu4FUvT9QGkCzQlWrSkfe4gMFjFr1BSnOwYO9Vr88y3L2VPm5ZjvWmS18pwI
+* **Tsinghua Biomed Seminars**: webcal://p65-calendars.icloud.com/published/2/MTE3OTczNTgzNjExNzk3MzUCL8bJDLFgD74GSfo9rMbuhosXbSYoxlSfXG4pGM5q0Ov6CLRNJIfcfxrYUjOBxR2_3ctr0flSrQEhfJniRGU
 
-**[Lu Lab Event Calendar](https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai "https://calendar.google.com/calendar/embed?src=rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com&ctz=Asia%2FShanghai")**
 
-**ical format:** `注意及时开通VPN更新Google服务`
 
- https://calendar.google.com/calendar/ical/rhfq9d5sr46lqjpg3vd1ncbosc%40group.calendar.google.com/public/basic.ics
-
-## Calendar of Tsinghua Biomed Seminars
-
-**[Tsinghua Biomedical Seminars](https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai "https://calendar.google.com/calendar/embed?src=hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com&ctz=Asia%2FShanghai")**
-
-**ical format:** `注意及时开通VPN更新Google服务`
-
-https://calendar.google.com/calendar/ical/hrabiq5okeupg1tfnpa7g9qqr0%40group.calendar.google.com/public/basic.ics
+---
 
 ## More (Holiday Calendars)
 
@@ -47,6 +32,8 @@ webcal://ical.mac.com/ical/China32Holidays.ics
 webcal://ical.mac.com/ical/US32Holidays.ics
 
 ### 谷歌提供的地址:
+
+> [谷歌访问助手](http://www.ggfwzs.com)
 
 * 中国节气
 
