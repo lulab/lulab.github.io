@@ -1,21 +1,22 @@
 ## Calendars for Lu Lab
 
+### View Calendars: 
 * [**Lu Lab Events**](https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html)
 * [**Tsinghua Biomed Seminars**](https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html)
 
 
+### Subscribe to Calendars:
 
-> You can copy the following links (**ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer.
-> Apps:
-> -   Windows APP: Outlook Calendar
-> -   MAC APP: Calendar
-> -   iPhone APP: Calendar
-> -   Android APP: SOL Calendar, etc
 
 * **Lu Lab Events**: https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics
 * **Tsinghua Biomed Seminars**: https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/calendar.ics
 
-
+> You can copy the following links (**ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer.
+> Apps:
+> -   Windows APP: Outlook
+> -   MAC APP: Outlook, Calendar
+> -   iPhone APP: Outlook, Calendar
+> -   Android APP: Outlook, etc
 
 
 ---
