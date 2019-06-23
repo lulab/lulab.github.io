@@ -1,5 +1,10 @@
 ## Calendars for Lu Lab
 
+* [**Lu Lab Events**](https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/index.html)
+* [**Tsinghua Biomed Seminars**](https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/index.html)
+
+
+
 > You can copy the following links (**ical format**) to subscribe Lu Lab Calendars on the Calendar app on your phone and computer.
 > Apps:
 > -   Windows APP: Outlook Calendar
@@ -7,9 +12,9 @@
 > -   iPhone APP: Calendar
 > -   Android APP: SOL Calendar, etc
 
+* **Lu Lab Events**: https://outlook.live.com/owa//calendar/0c7950ee-9f96-427e-8229-e0fcdd915b44/ac41d38f-f582-4f44-91d7-a776ae33b6be/cid-0AFBF18A0971099A/calendar.ics
+* **Tsinghua Biomed Seminars**: https://outlook.live.com/owa//calendar/00000000-0000-0000-0000-000000000000/082ecf9a-edd5-44f6-b84e-6e8ca8aec125/cid-0AFBF18A0971099A/calendar.ics
 
-* **Lu Lab Events**: webcal://p65-calendars.icloud.com/published/2/MTE3OTczNTgzNjExNzk3MzUCL8bJDLFgD74GSfo9rMaTGOosu4FUvT9QGkCzQlWrSkfe4gMFjFr1BSnOwYO9Vr88y3L2VPm5ZjvWmS18pwI
-* **Tsinghua Biomed Seminars**: webcal://p65-calendars.icloud.com/published/2/MTE3OTczNTgzNjExNzk3MzUCL8bJDLFgD74GSfo9rMbuhosXbSYoxlSfXG4pGM5q0Ov6CLRNJIfcfxrYUjOBxR2_3ctr0flSrQEhfJniRGU
 
 
 
