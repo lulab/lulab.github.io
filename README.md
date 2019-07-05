@@ -8,7 +8,7 @@
 
 ### 🎉 **Welcome** {#Welcome}
 
-* [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg) <sup>downloadable</sup> ([清华校历和地图](https://www.evernote.com/l/ABKkZPq-N2FLorI9jcAK2VdOii7RVw-qwao))
+* [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg) <sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
 * [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ) 
 
