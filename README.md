@@ -9,8 +9,6 @@
 ### 🎉 **Welcome** {#Welcome}
 
 * [Lab Manual](https://cloud.tsinghua.edu.cn/f/d48e8cdb0803439186ca/) <sup>downloadable</sup> ([清华校历和地图](https://www.evernote.com/l/ABKkZPq-N2FLorI9jcAK2VdOii7RVw-qwao))
-  * [Wet-lab Regulation](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/)  
-  * [Wet-lab Safety Guide](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines)
 * [Lab Introduction](https://www.jianguoyun.com/p/DTwqZJAQsJbvBRj2s2U) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ) 
 
@@ -22,6 +20,9 @@
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
+* Safety & Regulation 
+  * [Wet-lab Regulation](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/)  
+  * [Wet-lab Safety Guide](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines)
 
 ### 📖 **Learning**  {#Learning}
 
