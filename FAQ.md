@@ -4,9 +4,8 @@
 
 **日常的数据备份是必需的**：
 
-[How to backup your data？](https://lulab.gitbook.io/training/part-i.-programming-skills/3.bash-and-github#example-ii)
+[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-crontab-and-rsync)
 
-[More Tips](https://lulab.gitbook.io/training/part-i-basic-skills/1.setup/instruction#4-always-backup-data-files-regularly)
 
 * **在实验室如何上网？**
 
