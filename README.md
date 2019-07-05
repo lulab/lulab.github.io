@@ -46,7 +46,7 @@
 * [intranet wiki](https://github.com/lulab/intranet/wiki)<sup>Private</sup>
 * Lab Files<sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
-  * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) ([WebDave](http://lulab.life.tsinghua.edu.cn/nextcloud/remote.php/webdav/)) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
+  * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
 * [People, Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ#Contacts_and_Seats)
 
 
