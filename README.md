@@ -41,8 +41,8 @@
 
 ## Level 2 - Lu Lab Intranet {#L2}
 
-* 🚩[to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)
-* [intranet wiki](https://github.com/lulab/intranet/wiki)
+* 🚩[to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
+* [intranet wiki](https://github.com/lulab/intranet/wiki)<sup>Private</sup>
 * Lab Files<sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
   * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) ([WebDave](http://lulab.life.tsinghua.edu.cn/nextcloud/remote.php/webdav/)) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
