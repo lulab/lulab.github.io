@@ -4,7 +4,7 @@
 
 **日常的数据备份是必需的**：
 
-[How to backup your data？](https://lulab.gitbook.io/training/part-i-basic-skills/3.bash-and-github#example-ii)
+[How to backup your data？](https://lulab.gitbook.io/training/part-i.-programming-skills/3.bash-and-github#example-ii)
 
 [More Tips](https://lulab.gitbook.io/training/part-i-basic-skills/1.setup/instruction#4-always-backup-data-files-regularly)
 
