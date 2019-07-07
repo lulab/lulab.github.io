@@ -2,6 +2,10 @@
 
 **Literature Reading as often as you can** is essicial for researcher.
 
+### Automatically receive search notifications
+
+1. using Pubmed
+---
 Here is my search option in [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed): 
 
 ```
