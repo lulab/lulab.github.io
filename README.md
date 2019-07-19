@@ -26,7 +26,7 @@
 
 ### 📖 **Learning**  {#Learning}
 
-* [Courses](https://lulab.github.io/courses) @ Tsinghua  
+* [Courses](https://www.ncrnalab.org/courses) @ Tsinghua  
 * Training @ Lu Lab
   * [Basic Tutorial](https://lulab2.gitbook.io/teaching)
   * [Advanced Tutorial](https://lulab.gitbook.io/training)
@@ -66,7 +66,6 @@
 >
 >  * [PI](http://urluzhi.github.io/scripts) 
 
-
 ---
 
 > * Lu Lab
@@ -76,7 +75,6 @@
 > * Github: [http://lulab.github.io](http://lulab.github.io)
 > * Books: [http://lulab.gitbook.io](http://lulab.gitbook.io) ; [http://lulab2.gitbook.io](http://lulab2.gitbook.io)
 > * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
-
 
 ---
 
