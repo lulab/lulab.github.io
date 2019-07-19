@@ -1,0 +1,27 @@
+# Development of a modified SMART system for robust transcriptome library preparation from limited quantities of compromised samples
+Magnolia Bostick, Cynthia Chang and Andrew Farmer Clontech® Laboratories, Inc. 1290 Terra Bella Avenue, Mountain View CA 94043
+## Abstact
+&#8195;&#8195;Next Generation Sequencing has revolutionized biomedical research by providing sequence data on millions of short DNA fragments, in parallel. In particular, NGS has enabled RNA expression analysis over the entire transcriptome with high sensitivity and dynamic range. Currently, the field is seeking methods to utilize challenging samples that are 
+either compromised or are only available in limited amounts. Overcoming these constraints will require highly sensitive and robust sample preparation methods.  
+&#8195;&#8195;One powerful method for cDNA preparation is SMART™ technology (Switching Mechanism At the 5' end of the RNA Template), which utilizes the template switching activity of reverse transcriptase to enable the direct addition of a PCR adaptor to the 3' end of the first-strand cDNA, thus avoiding inefficient ligation steps. One drawback of SMART technology is its current inability to work with compromised samples, owing to its dependence on an oligo dT primer for first strand synthesis.  
+&#8195;&#8195;A modifi ed SMART system has been developed including the use of random primers to work with samples containing compromised or degraded RNA. Data (including gene body coverage, reproducibility, and 
+mappability metrics) will be presented for both chemically degraded RNA samples and FFPE RNA prepared using the modified SMART system.  
+&#8195;&#8195;This modified SMART protocol will be especially useful for small samples of degraded RNA. It is capable of generating cDNA libraries for transcriptome profiling from as little as 10 ng of total RNA.
+## Introduction
+&#8195;&#8195;Sequencing RNA is an important method for learning how any particular cell functions. A variety of techniques have been developed over the last few decades to identify RNA, ranging from single-sequence identifi cation via reverse transcriptase-dependent cloning or quantitative PCR to microarray analysis of populations of genes and, most recently, next generation sequencing of all of the RNA in a cell. For many samples containing well-preserved mRNA, a dT oligo-primed reverse transcriptase reaction is an excellent method for identifying full length cDNA. The SMARTer®Ultra Low RNA Kit for Illumina® Sequencing allows researchers to push the limits of this method down to the single-cell level (2; see also Poster#42). Unfortunately, this powerful technology requires RNA with little to no degradation but many common sample preparation techniques, including FFPE (formaldehyde fixed paraffin embedded tissue) and laser-capture dissection, lead to  degraded samples. We are developing a SMARTer Universal Low Input RNA Kit to address the unmet need for a cDNA production kit that accommodates low concentrations of degraded samples (Figures 1 and 2). We  have tested the kit on sheared control RNA and on FFPE samples, and have confirmed library production results with sequencing (Figures 3 and 5). The results of these  experiments are presented.
+## Result
+&#8195;&#8195;We tested several different random primers for first strand cDNA production, and the N6 primer gave the greatest amplification with the least primer dimers (data not shown). Therefore, we adapted the protocol for the SMARTer Ultra Low RNA Kit for Illumina Sequencing for use with the universal N6 primer (Figures 1 and 2). We created control sheared Human Universal RNA and compared it to RNA extracted from Breast Carcinoma FFPE slides. Both had a distribution of lengths, with a low peak (less than 200 bp) and an RNA Integrity Number (RIN) of ~2 (Figure 3, Panel A). We then created cDNA libraries with varying inputs of the same Breast Carcinoma FFPE RNA, ranging from 50 ng down to 2 ng. The DNA concentrations of these libraries indicated that we were within the linear range of amplifi cation,perfect for sequencing (Figure 3, Panel B). We also sequenced two different cDNA libraries made from 20 ng each of the same Human Universal RNA. The high correlation (Pearson, 0.959) between the expression levels of the two libraries indicates good reproducibility from our kit (Figure 4). We compared these results to sequencing of RNA extracted from a flash frozen sample from the same tumor. This RNA was sequenced with either the SMARTer Ultra Low RNA Kit for Illumina Sequencing (dT) or the SMARTer Universal Low RNA Kit for Sequencing (N6). The gene body coverage was more complete for the N6-primed library compared to the dT-primed library (Figure 5, Panel B). A summary of the sequencing runs is presented in Table I. All three libraries had a high percentage of reads mapping to the human genome, a high percentage of unique reads, and an appropriate number of genes identifi ed in the library.
+## References
+1. Chenchik, A. et al., (1998) In RT-PCR Methods for Gene Cloning and Analysis. Eds. Siebert, P. & Larrick, J. (BioTechniques Books, MA),pp. 305–319.
+2. Ramsköld, D. et. al. (2012) Nat. Biotechnol. 30(8):777–782.
+
+![](http://tianchen2019.cn3v.net/pico1.png) 
+![](http://tianchen2019.cn3v.net/pic2.png)
+![](http://tianchen2019.cn3v.net/pico3.png)
+![](http://tianchen2019.cn3v.net/pico4.png)
+![](http://tianchen2019.cn3v.net/pico5.png)
+![](http://tianchen2019.cn3v.net/pico6.png)
+
+
+
+
