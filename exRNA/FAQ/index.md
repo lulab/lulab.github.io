@@ -27,7 +27,7 @@ Individual "barcode" sequences are added to each DNA fragment during next-genera
 - *High-Quality Data:* Accurate maintenance of read length of unknown sequences
 - *Simplified Analysis:* Automatic sample identification with "barcodes" using Illumina data analysis software
 
-![barcoding](/Users/john/Documents/GitHub/lulab.github.io/exRNA/FAQ/img/barcoding.jpg)
+![barcoding](img/barcoding.jpg)
 
 
 
