@@ -22,18 +22,18 @@ The TSO is used differently in the Single Cell 3' assay compared to the Single C
 Single Cell 3' assay after reverse transcription:
 
 
-![TSO-3](TSO-3.png)
+![TSO-3](img/TSO-3.png)
 
  
 
 Single Cell 5' assay after reverse transcription:
 
-![TSP-5](TSO-5.png)
+![TSP-5](img/TSO-5.png)
 
 Products: Single Cell 3', VDJ
 
 
-> See more in [PDF](TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
+> See more in [PDF](https://github.com/lulab/lulab.github.io/blob/master/exRNA/FAQ/pdf/TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
 
 
 
