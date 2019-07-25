@@ -1,7 +1,7 @@
 # Literature about exRNA studies
 
 > * [PDFs for exRNA](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/)
-> * [Protocol, SOP and Technology](https://github.com/lulab/intranet/wiki/Wet-Lab)<sup>private</sup> 
+> * [Protocol, SOP and Technology](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
 > * [FAQ](http://lulab.github.io/exRNA/FAQ)
 
 ---
