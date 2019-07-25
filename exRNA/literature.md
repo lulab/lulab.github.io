@@ -33,7 +33,7 @@
 
 [翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/?p=/2.%20exRNA/Review&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/Review&mode=list)
 
 ## Representative Biomarker Studies
 
@@ -44,7 +44,7 @@
 * **exRNA Components**: Nature Communication 2017 - Coding and noncoding landscape of extracellular RNA
 * **Platelet RNA**: Cancer Cell 2017 - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets  [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list)
  
-> [PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
 
 ## exRNA/cfRNA studies
