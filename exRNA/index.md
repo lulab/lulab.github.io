@@ -5,7 +5,7 @@
 * [**Literature**](https://lulab.github.io/exRNA/literature)
 * [**Safety and Regulation**](http://lulab.github.io/#Welcome) {#Reg}
 * [**Protocol, SOP and Technology**](https://github.com/lulab/intranet/wiki/Wet-Lab)<sup>private</sup> {#SOP}
-* :question: [**FAQ**](http://lulab.github.io/exRNA/FAQ)
+*  ❓[**FAQ**](http://lulab.github.io/exRNA/FAQ)
 
 
 ## Database
