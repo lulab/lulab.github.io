@@ -33,7 +33,7 @@
 
 [翻译版](https://www.nejmqianyan.cn/article/YXQYra1705345)
 
-> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/Review&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
 
 ## Representative Biomarker Studies
 
