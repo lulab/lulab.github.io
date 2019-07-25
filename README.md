@@ -28,8 +28,6 @@
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
-* Wet-lab [Safety](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines) and [Regulation](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/)  
-
 
 ### 📖 **Learning**  {#Learning}
 
@@ -51,6 +49,8 @@
 
 * 🚩[to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
 * [intranet wiki](https://github.com/lulab/intranet/wiki)<sup>Private</sup>
+  * Wet-lab Safety and Regulation   
+  * Dry-lab Configuration and Instructions
 * Lab Files<sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
   * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
