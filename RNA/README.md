@@ -1,6 +1,6 @@
 # RNA Regulation Study
 
-# Knowledge Base
+## Knowledge Base
 
 * [Literature](http://lulab.github.io/RNA/literature)
 
