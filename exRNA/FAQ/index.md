@@ -14,6 +14,10 @@
 
 #### What is TSO?
 
+**Answer:** The TSO (template switch oligo) is an oligo that hybridizes to untemplated C nucleotides added by the reverse transcriptase during reverse transcription. The TSO adds a common 5' sequence to full length cDNA that is used for downstream cDNA amplification.
+
+See more in [PDF](TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
+
 #### What is UMI?
 
 #### What is barcode and multiplex?
