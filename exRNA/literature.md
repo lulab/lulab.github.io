@@ -9,7 +9,6 @@
 
 * TOC
 {:toc}
-
 ---
 
 ## 科普
@@ -43,7 +42,7 @@
 * **cfRNA/exRNA**: Science 2018 - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
 * **exRNA Components**: Nature Communication 2017 - Coding and noncoding landscape of extracellular RNA
 * **Platelet RNA**: Cancer Cell 2017 - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets  [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list)
- 
+
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
 
@@ -101,6 +100,8 @@
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
 * **V2-SMART**: SMARTer Stranded Total RNA-Seq Kit - Pico Input Mammalian User Manual
 * **V3-Pico**: Long cfRNA-seq Kit
+  * Clontech technology-low input RNA library kit
+  * Clontech technology-pico kit
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20construction%20kit%20manual&mode=list)
 
@@ -129,7 +130,6 @@
 * [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20metagenomics&mode=list): tumor locator (tissue match), ranking, etc
 * [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20locator&mode=list): tumor locator (tissue match), etc
 
-
 ---
 
 ## Other Technologies for Liquid Biopsy
@@ -147,7 +147,6 @@
 * **WGBS**: Nature Genetics 2017 - Identification of methylation haplotype blocks aids in deconvolution of heterogeneous tissue samples and tumor tissue-of-origin mapping from plasma DNA 
 
 >[PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
-
 
 ---
 
