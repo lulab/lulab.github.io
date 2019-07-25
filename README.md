@@ -1,8 +1,14 @@
 # Laboratory Guide 
 
-[Lu Lab](http://bioinfo.life.tsinghua.edu.cn) @ Tsinghua University
+[Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
 
 ---
+
+* TOC
+{:toc}
+
+---
+
 
 ## Level 1 - How to Start in Lu Lab {#L1}
 
@@ -20,9 +26,8 @@
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
-* Safety & Regulation 
-  * [Wet-lab Regulation](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/)  
-  * [Wet-lab Safety Guide](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines)
+* Wet-lab [**Safety**](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines) and [**Regulation**](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/) {#Reg} 
+
 
 ### 📖 **Learning**  {#Learning}
 
