@@ -2,8 +2,8 @@
 
 ## Knowledge Base
 
-* [**Literature**](https://lulab.github.io/exRNA/literature)
-* [**Safety and Regulation**](http://lulab.github.io/#Welcome) {#Reg}
+* [**Literature**](literature.md)
+* [**Safety and Regulation**](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/) {#Reg}
 * [**Protocol, SOP and Technology**](https://github.com/lulab/intranet/wiki/Wet-Lab)<sup>private</sup> {#SOP}
 *  ❓[**FAQ**](http://lulab.github.io/exRNA/FAQ)
 
