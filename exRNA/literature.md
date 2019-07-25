@@ -1,7 +1,7 @@
 # Literature about exRNA studies
 
 > * [PDFs for exRNA](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/)
-> * :question: [FAQ](FAQ.md)
+> * ❓[FAQ](FAQ.md)
 ---
 
 # Table of Contents
