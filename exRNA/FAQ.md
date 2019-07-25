@@ -13,8 +13,6 @@
 * [Spike-in for small RNA library](FAQ/FAQ_pdf/ExiSEQ%20RNA%20spike-in.pdf)
 
 ## RNA-seq
+
 * [Comparison of NGS & qPCR for miRNA in serum](FAQ/FAQ_pdf/Comparison%20of%20NGS%20%26%20qPCR%20for%20miRNA%20in%20serum.pdf)
 
-## Single Cell RNA-seq and exRNA-seq
-* [Clontech technology-low input RNA library kit](FAQ/FAQ_pdf/Clontech%20technology-low%20input%20RNA%20library%20kit.pdf)
-* [Clontech technology-pico kit](FAQ/FAQ_pdf/Clontech%20technology-pico%20kit.pdf)
