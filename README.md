@@ -26,7 +26,7 @@
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
-* Wet-lab [**Safety**](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines) and [**Regulation**](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/) {#Reg} 
+* Wet-lab [Safety](https://github.com/lulab/intranet/wiki/Wet-lab-safety-operation-guidelines) and [Regulation](https://cloud.tsinghua.edu.cn/f/2813f4f589d64e1e8ee1/)  
 
 
 ### 📖 **Learning**  {#Learning}
