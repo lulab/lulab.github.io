@@ -75,7 +75,7 @@
 
 
 ---
-## Wet-lab Papers
+## Wet-lab Technology Papers
 
 ### Comparison of differnt liquid biopsy tech.
 
@@ -104,7 +104,7 @@
 
 
 ---
-## Dry-lab Papers   {#computing}
+## Dry-lab Technology Papers   {#computing}
 
 ### Normalization and Batch correction
 
