@@ -30,9 +30,10 @@ Single Cell 5' assay after reverse transcription:
 
 ![TSP-5](TSO-5.png)
 
-**Products:** Single Cell 3', VDJ
+Products: Single Cell 3', VDJ
 
-See more in [PDF](TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
+
+> See more in [PDF](TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
 
 
 
