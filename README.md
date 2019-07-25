@@ -37,7 +37,7 @@
   * [Advanced Tutorial](https://lulab.gitbook.io/training)
   * [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) 
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
-* **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/d2b6ca8a4cce49438f59/) \| [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/) \| [Tip: how to automatically receive search notifications](http://lulab.github.io/reading))
+* **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) \| [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/) \| [Tip: how to automatically receive search notifications](http://lulab.github.io/reading))
    * [RNA Regulation Studies](http://lulab.github.io/RNA/literature)
    * [exRNA Studies](http://lulab.github.io/exRNA/literature)
 
