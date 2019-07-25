@@ -16,7 +16,25 @@
 
 **Answer:** The TSO (template switch oligo) is an oligo that hybridizes to untemplated C nucleotides added by the reverse transcriptase during reverse transcription. The TSO adds a common 5' sequence to full length cDNA that is used for downstream cDNA amplification.
 
+The TSO is used differently in the Single Cell 3' assay compared to the Single Cell 5' assay. In the 3' assay, the polyd(T) sequence is part of the gel bead oligo (which also contains the 10x Barcode, UMI, and partial Illumina Read 1 sequence), with the TSO supplied in the RT Primer. In the 5' assay, the polyd(T) is supplied in the RT Primer, and the TSO is part of the gel bead oligo.
+
+
+Single Cell 3' assay after reverse transcription:
+
+
+![TSO-3](TSO-3.png)
+
+ 
+
+Single Cell 5' assay after reverse transcription:
+
+![TSP-5](https://kb.10xgenomics.com/hc/article_attachments/360002225632/Screen_Shot_2018-03-18_at_5.47.59_PM.png)
+
+**Products:** Single Cell 3', VDJ
+
 See more in [PDF](TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
+
+
 
 #### What is UMI?
 
