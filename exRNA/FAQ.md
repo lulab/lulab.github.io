@@ -4,7 +4,7 @@
 
 * [核酸提取经验及原理总结](FAQ/核酸提取经验及原理总结.md)
 * [RNA提取实验中的那些玄学](FAQ/RNA提取实验中的那些玄学.md)
-* [Exiqon biofluids guidelines-miRNA](FAQ/Exiqon%20biofluids%20guidelines-miRNA.pdf)
+* [Exiqon biofluids guidelines-miRNA](FAQ/FAQ_pdf/Exiqon%20biofluids%20guidelines-miRNA.pdf)
 * [Qiagen circulating nucleic acid handbook](FAQ/Qiagen%20circulating%20nucleic%20acid%20handbook.pdf)
 
 ## QC
