@@ -4,7 +4,7 @@
 
 * [**Literature**](literature.md)
 * [**Protocol, SOP and Technology**](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
-* [**FAQ**](http://lulab.github.io/exRNA/FAQ)
+* [**FAQ**](FAQ/)
 
 ## Database
 
