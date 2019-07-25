@@ -87,7 +87,7 @@
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
 * **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
-* **SMART-seq2**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
+* **SMART-seq2(TSO)**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
 * **Pico-seq**: 
   * **DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
   * **Pico Patent**: Pico Patent Application Publication
@@ -100,6 +100,7 @@
 * **V1-NEB**: E7300-NEB small RNA kit
 * **V2-SMART**: SMARTer smRNA-Seq Kit for Illumina User Manual
 * **V2-SMART**: SMARTer Stranded Total RNA-Seq Kit - Pico Input Mammalian User Manual
+* **V3-Pico**: Long cfRNA-seq Kit
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20construction%20kit%20manual&mode=list)
 
@@ -114,12 +115,11 @@
   * [Heterogeneity and Normalization](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Normalization%20and%20heterogeneity&mode=list)
   * [Batch effect and confounder](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20single%20cell/Batch%20effect%20and%20Confounder&mode=list)
 
-> [Tutorial](https://lulab.gitbook.io/training/part-ii.-basic-bioinfo-analyses/4.normalization)
->
 > 2017 - Nature Methods - Normalizing single-cell RNA sequencing data: challenges and opportunities 
 >
 > 2019 - Nature Methods - A discriminative learning approach to differential expression analysis for single-cell RNA-seq
-
+>
+> [Tutorial](https://lulab.gitbook.io/training/part-iii.-case-studies/case-study-1.exrna-seq/1.4.normalization-issues)
 
 ### Feature Selection and Network Approach
 * [Network approach for biomarker discovery](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20network&mode=list)
