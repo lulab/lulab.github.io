@@ -4,13 +4,32 @@
 
 #### How many types of exRNAs?
 
-**exRNA** (extra-cellular RNA) includes long and short RNAs, which can be derived from the whole plamsa/serum (called cell -free RNA, **cf-RNA**), or enriched from the exosomes/EVs of plasma/serum (called **exoRNA**).
+**exRNA** (extra-cellular RNA) includes long and short RNAs, which can be derived from the whole plamsa/serum (**cf-RNA**: cell -free RNA), or enriched from the exosomes/EVs of plasma/serum (**exoRNA**).
 
-* long RNA: mRNA, lncRNA
-* small RNA: miRNA, piRNA, siRNA
-* ohter RNA: rRNA, tRNA, Y RNA, snRNA, snoRNA, srp RNA, etc
+* *Long RNA* (>200nt): mRNA (RNA coding for protein), lncRNA (long noncoding RNA), rRNA
+* *Small noncoding RNA (ncRNA)* (20-30nt): miRNA, piRNA, siRNA
+* *Ohter noncoding RNA (ncRNA)* (100-200nt): tRNA, Y RNA, snRNA, snoRNA, srp RNA, etc
+
+ 
 
 ## RNA-seq
+
+#### What is barcode and multiplex?
+
+**Answer:** Multiplex sequencing allows large numbers of libraries to be pooled and sequenced simultaneously during a single run on a high-throughput instrument. Sample multiplexing is useful for many applications, from targeted panels to whole human genome sequencing.
+
+Individual "barcode" sequences are added to each DNA fragment during next-generation sequencing (NGS) library preparation so that each read can be identified and sorted before the final data analysis. Pooling samples exponentially increases the number of samples analyzed in a single run, without drastically increasing cost or time.
+
+> Multiplex Sequencing Highlights
+
+- *Fast High-Throughput Strategy:* Large sample numbers can be simultaneously sequenced during a single experiment
+- *Cost-Effective Method:* Sample pooling improves productivity by reducing time and reagent use
+- *High-Quality Data:* Accurate maintenance of read length of unknown sequences
+- *Simplified Analysis:* Automatic sample identification with "barcodes" using Illumina data analysis software
+
+![barcoding](/Users/john/Documents/GitHub/lulab.github.io/exRNA/FAQ/img/barcoding.jpg)
+
+
 
 #### What is TSO?
 
@@ -56,14 +75,9 @@ Products: Single Cell 3', VDJ
 
 - [Kivioja T., Vaharautio A., Karlsson K., Bonke M., Enge M., et al. (2012) Counting absolute numbers of molecules using unique molecular identifiers. Nat Methods 9: 72-74](http://www.ncbi.nlm.nih.gov/pubmed/22101854)
 
+  
 
-
-#### What is barcode and multiplex?
-
-**Answer:** Multiplex sequencing allows large numbers of libraries to be pooled and sequenced simultaneously during a single run on a high-throughput instrument. Sample multiplexing is useful for many applications, from targeted panels to whole human genome sequencing.
-
-Individual "barcode" sequences are added to each DNA fragment during next-generation sequencing (NGS) library preparation so that each read can be identified and sorted before the final data analysis. Pooling samples exponentially increases the number of samples analyzed in a single run, without drastically increasing cost or time.
+![UMI](img/umi.png)
 
 
 
-![barcoding](img/barcoding.jpg)
