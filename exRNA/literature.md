@@ -15,7 +15,7 @@
 ## 科普
 
 * 开启肿瘤早筛新纪元，液态活检蓄势待发: [Evernote Clip](https://www.evernote.com/l/ABJ3S8AgmJ9MiYlJfTEUGdlIc2z1P-vE4eE); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ)
-* 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/files/?p=/Popular%20Science/%E6%B5%8B%E5%BA%8F%E4%B8%AD%E5%9B%BD-2019%20%E8%81%9A%E7%84%A6DNA%E7%94%B2%E5%9F%BA%E5%8C%96%E4%B8%8E%E7%99%8C%E7%97%87%E6%97%A9%E7%AD%9B%E4%B8%93%E9%A2%98%E6%8A%A5%E5%91%8A.pdf)
+* 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list)
 
 ## Review
 
@@ -44,7 +44,7 @@
 * **exRNA Components**: Nature Communication 2017 - Coding and noncoding landscape of extracellular RNA
 * **Platelet RNA**: Cancer Cell 2017 - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets  [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list)
  
-> [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/2.%20exRNA/Review&mode=list)
+> [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
 
 ## exRNA/cfRNA studies
