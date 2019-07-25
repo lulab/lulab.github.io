@@ -11,9 +11,15 @@
 {:toc}
 ---
 
+---
+
+---
+
+
+
 ## 科普
 
-* 开启肿瘤早筛新纪元，液态活检蓄势待发: [Evernote Clip](https://www.evernote.com/l/ABJ3S8AgmJ9MiYlJfTEUGdlIc2z1P-vE4eE); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ)
+* [开启肿瘤早筛新纪元，液态活检蓄势待发](News/new_age_for_liquid_biopsy.md)  ( [Evernote Clip](https://www.evernote.com/l/ABJ3S8AgmJ9MiYlJfTEUGdlIc2z1P-vE4eE); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) )
 * 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list)
 
 ## Review

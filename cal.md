@@ -18,7 +18,6 @@
 > -   iPhone APP: Outlook, Calendar
 > -   Android APP: Outlook, etc
 
-
 ---
 
 ## More (Holiday Calendars)
