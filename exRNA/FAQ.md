@@ -2,7 +2,7 @@
 
 ## RNA Purification
 
-* [核酸提取经验及原理总结](FAQ/%E6%A0%B8%E9%85%B8%E7%9A%84%E6%8F%90%E5%8F%96%E7%BB%8F%E9%AA%8C%E5%8F%8A%E5%8E%9F%E7%90%86%E6%80%BB%E7%BB%93.pdf)
+* [核酸提取经验及原理总结](FAQ/%E6%A0%B8%E9%85%B8%E7%9A%84%E6%8F%90%E5%8F%96%E7%BB%8F%E9%AA%8C%E5%8F%8A%E5%8E%9F%E7%90%86%E6%80%BB%E7%BB%93.md)
 * [RNA提取实验中的那些玄学](FAQ/RNA%E6%8F%90%E5%8F%96%E5%AE%9E%E9%AA%8C%E4%B8%AD%E7%9A%84%E9%82%A3%E4%BA%9B%E7%8E%84%E5%AD%A6.md)
 * [Exiqon biofluids guidelines-miRNA](FAQ/Exiqon%20biofluids%20guidelines-miRNA.pdf)
 * [Qiagen circulating nucleic acid handbook](FAQ/Qiagen%20circulating%20nucleic%20acid%20handbook.pdf)
