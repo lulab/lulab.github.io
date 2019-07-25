@@ -1,19 +1,20 @@
 # FAQ for exRNA
 
-## RNA Purification
+## exRNA: extra-cellular RNA
 
-* [核酸提取经验及原理总结](FAQ/核酸提取经验及原理总结.md)
-* [RNA提取实验中的那些玄学](FAQ/RNA提取实验中的那些玄学.md)
-* [Exiqon biofluids guidelines-miRNA](FAQ/FAQ_pdf/Exiqon%20biofluids%20guidelines-miRNA.pdf)
-* [Qiagen circulating nucleic acid handbook](FAQ/FAQ_pdf/Qiagen%20circulating%20nucleic%20acid%20handbook.pdf)
+#### How many types of exRNAs?
 
-## QC
+**exRNA** (extra-cellular RNA) includes long and short RNAs, which can be derived from the whole plamsa/serum (called cell -free RNA, **cf-RNA**), or enriched from the exosomes/EVs of plasma/serum (called **exoRNA**).
 
-* [核酸定量哪家强？Nanodrop vs. Qubit](FAQ/quantify.md)
-* [Spike-in for long RNA library](FAQ/FAQ_pdf/ERCC%20RNA%20spike-in.pdf)
-* [Spike-in for small RNA library](FAQ/FAQ_pdf/ExiSEQ%20RNA%20spike-in.pdf)
+* long RNA: mRNA, lncRNA
+* small RNA: miRNA, piRNA, siRNA
+* ohter RNA: rRNA, tRNA, Y RNA, snRNA, snoRNA, srp RNA, etc
 
 ## RNA-seq
 
-* [Comparison of NGS & qPCR for miRNA in serum](FAQ/FAQ_pdf/Comparison%20of%20NGS%20%26%20qPCR%20for%20miRNA%20in%20serum.pdf)
+#### What is TSO?
+
+#### What is UMI?
+
+#### What is barcode and multiplex?
 
