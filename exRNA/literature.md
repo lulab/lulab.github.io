@@ -85,11 +85,12 @@
 ### exRNA-seq technologies 
 
 * **Comparison**: RNA biology 2018 - Evaluation of methodologies for microRNA biomarker detection by next generation sequencing
-* **SMART-seq2**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
-* **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
 * **Barcode**: Nature Methods 2015 - Simultaneous generation of many RNA-seq libraries in a single reaction
-* **DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
-* **Pico Patent**: Pico Patent Application Publication
+* **UMI**: Nature Methods 2012 - Counting absolute numbers of molecules using unique molecular identifiers, Nature Methods 2014 - Quantitative single-cell RNA-seq with unique molecular identifiers
+* **SMART-seq2**: Nature Protocol 2014 - Full length RNA-seq from single cells using Smart-seq2
+* **Pico-seq**: 
+  * **DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
+  * **Pico Patent**: Pico Patent Application Publication
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
 
