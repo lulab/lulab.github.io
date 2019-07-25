@@ -28,7 +28,7 @@ Single Cell 3' assay after reverse transcription:
 
 Single Cell 5' assay after reverse transcription:
 
-![TSP-5](https://kb.10xgenomics.com/hc/article_attachments/360002225632/Screen_Shot_2018-03-18_at_5.47.59_PM.png)
+![TSP-5](TSO-5.png)
 
 **Products:** Single Cell 3', VDJ
 
