@@ -6,7 +6,6 @@
 
 * TOC
 {:toc}
-
 ---
 
 
@@ -58,7 +57,7 @@
 
 
 
-## Level 3- Lu Lab Public Projects/Software {#L3}
+## Level 3 - Lu Lab Public Projects/Software {#L3}
 
 **[http://software.ncrnalab.org](http://software.ncrnalab.org)**
 
