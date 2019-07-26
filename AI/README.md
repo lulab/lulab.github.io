@@ -2,7 +2,7 @@
 
 ## Knowledge Base
 
-* [Literature](literature)
+* [Literature](literature.md)
 
 ## Bioinformatics
 
