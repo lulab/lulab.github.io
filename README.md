@@ -7,9 +7,6 @@
 
 ---
 
----
-
-
 ## Level 1 - How to Start in Lu Lab {#L1}
 
 ### 🎉 **Welcome** {#Welcome}
