@@ -3,6 +3,7 @@
 ## Knowledge Base
 
 * [Literature](http://lulab.github.io/RNA/literature)
+* [Tutorial](https://lulab2.gitbook.io/teaching/part-iii.-ngs-data-analyses/4.more-analyses)
 
 ## Database
 
