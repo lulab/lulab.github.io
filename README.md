@@ -73,4 +73,4 @@
 > * Hompage: [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) \| [www.ncrnalab.org](http://www.ncrnalab.org) 
 > * Github: [lulab.github.io](http://lulab.github.io)
 > * Books: [lulab.gitbook.io](http://lulab.gitbook.io) ; [lulab2.gitbook.io](http://lulab2.gitbook.io)
-> * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
+> * Software: [software.ncrnalab.org](http://software.ncrnalab.org)
