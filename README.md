@@ -2,9 +2,7 @@
 
 [Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
 
----
-
-* TOC
+> * TOC
 {:toc}
 
 ---
@@ -69,9 +67,6 @@
   * [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu 
   * [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
 
-> More Personal Projects/Scripts
->
->  * [PI](http://urluzhi.github.io/scripts) 
 
 ---
 
@@ -82,9 +77,3 @@
 > * Github: [http://lulab.github.io](http://lulab.github.io)
 > * Books: [http://lulab.gitbook.io](http://lulab.gitbook.io) ; [http://lulab2.gitbook.io](http://lulab2.gitbook.io)
 > * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
-
----
-
-[Markdown Syntax](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) \| [Excel Table to Markdown](https://www.tablesgenerator.com/markdown_tables) \| [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
-
-
