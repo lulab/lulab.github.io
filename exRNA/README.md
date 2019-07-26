@@ -3,8 +3,9 @@
 ## Knowledge Base {#knowledge}
 
 * [**Literature**](literature.md)
-* [**Protocol, SOP and Technology**](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
 * [**FAQ**](FAQ/)
+* [**Protocol, SOP and Technology**](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
+
 
 ## Database
 
