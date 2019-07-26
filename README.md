@@ -72,8 +72,8 @@
 
 > * Lu Lab
 > * School of Life Sciences, Tsinghua University, Beijing, China
-> * e-mai: lulab AT biomed.tsinghua.edu.cn
-> * Hompage: [http://bioinfo.life.tsinghua.edu.cn](http://bioinfo.life.tsinghua.edu.cn)
-> * Github: [http://lulab.github.io](http://lulab.github.io)
-> * Books: [http://lulab.gitbook.io](http://lulab.gitbook.io) ; [http://lulab2.gitbook.io](http://lulab2.gitbook.io)
+> * e-mai: lulab1 AT tsinghua.edu.cn
+> * Hompage: [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) \| [www.ncrnalab.org](http://www.ncrnalab.org) 
+> * Github: [lulab.github.io](http://lulab.github.io)
+> * Books: [lulab.gitbook.io](http://lulab.gitbook.io) ; [lulab2.gitbook.io](http://lulab2.gitbook.io)
 > * Software: [http://software.ncrnalab.org](http://software.ncrnalab.org)
