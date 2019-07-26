@@ -2,21 +2,16 @@
 
 > * [PDFs for exRNA](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/)
 > * [Protocol, SOP and Technology](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
-> * [**FAQ**](FAQ/)
 
----
-
-# Table of Contents
+**Table of Contents:**
 
 * TOC
 {:toc}
----
 
 ---
-
 ---
 
-
+## [FAQ](FAQ/)
 
 ## 科普
 
