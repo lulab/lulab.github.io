@@ -23,6 +23,7 @@
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
   * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
+  * Direction III: [Machine Learning and AI](https://lulab.github.io/AI)
 
 ### 📖 **Learning**  {#Learning}
 
@@ -34,7 +35,8 @@
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
 * **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) \| [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/) \| [Tip: how to automatically receive search notifications](http://lulab.github.io/reading))
    * [RNA Regulation Studies](http://lulab.github.io/RNA/literature)
-   * [exRNA Studies](http://lulab.github.io/exRNA/literature)
+   * [Precision Medicine - exRNA Studies](http://lulab.github.io/exRNA/literature)
+   * [Machine Learning and AI Studies](https://lulab.github.io/AI/literature)
 
    
    
