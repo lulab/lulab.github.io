@@ -2,7 +2,7 @@
 
 [Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
 
-> * TOC
+* TOC
 {:toc}
 
 ---
