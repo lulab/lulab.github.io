@@ -57,7 +57,7 @@ Single Cell 5' assay after reverse transcription:
 Products: Single Cell 3', VDJ
 
 
-> See more in [PDF](https://github.com/lulab/lulab.github.io/blob/master/exRNA/FAQ/pdf/TSO.pdf) or [Web](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
+> [Original Page](https://kb.10xgenomics.com/hc/en-us/articles/360001493051-What-is-a-template-switch-oligo-TSO-)
 
 
 
