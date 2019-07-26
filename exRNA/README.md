@@ -15,7 +15,7 @@
 * [**Protocol, SOP and Technology**](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>private</sup> 
 
 
-## Computational Techonologies - Bioinformatics
+## Computational Techonologies
 
 * [exSEEK](https://lulab.github.io/exSEEK) 
 
