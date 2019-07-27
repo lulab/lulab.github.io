@@ -35,6 +35,19 @@ Individual "barcode" sequences are added to each DNA fragment during next-genera
 ![barcoding](img/barcoding.jpg)
 
 
+#### What is SMARTer?
+**Answer:** Switch Mechanism at the 5' End of RNA Templates, which relies on template switching, used for transcriptome analysis from single cells. Smart-Seq was developed as a single-cell sequencing protocol with improved read coverage across transcripts. 
+
+Procedure: Cells are lysed, and the RNA is hybridized to an oligo(dT)-containing primer. The first strand of the cDNA is synthesized with the addition of a few untemplated C nucleotides. This poly(C) overhang is added exclusively to full-length transcripts. An oligonucleotide primer is hybridized to the poly(C) overhang and used to synthesize the second strand. Full-length cDNAs are PCR-amplified to obtain nanogram amounts of DNA. The PCR products are purified for sequencing.
+
+There are 2 versions of Smart-Seq: Smart-Seq and Smart-seq2. Smart-seq2 includes several improvements over the original Smart-Seq protocol. The new protocol includes a locked nucleic acid (LNA), an increased MgCl2 concentration, betaine, and elimination of the purification step to improve the yield significantly.
+
+![SMARTer](SMARTer/umi.png)
+
+> Reference:
+
+- [Picelli, S., Faridani, O. R., Björklund, Å. K., Winberg, G., Sagasser, S., & Sandberg, R. (2014). Full-length RNA-seq from single cells using Smart-seq2. Nature protocols, 9(1), 171.](https://www.ncbi.nlm.nih.gov/pubmed/24385147/)
+
 
 #### What is TSO?
 
@@ -86,3 +99,11 @@ Products: Single Cell 3', VDJ
 
 
 
+#### What is DASH/CRISPR?
+
+**Answer:** DASH means Depletion of Abundant Sequences by Hybridization. Sequencing libraries are ‘DASHed’ with recombinant Cas9 protein complexed with a library of guide RNAs targeting unwanted species for cleavage, thus preventing them from consuming sequencing space. Depletes abundant species after complementary DNA (cDNA) amplification, and thus can be utilized for essentially any amount of input sample.
+
+
+> Reference:
+
+- [Gu, W., Crawford, E. D., O’Donovan, B. D., Wilson, M. R., Chow, E. D., Retallack, H., & DeRisi, J. L. (2016). Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications. Genome biology, 17(1), 41.](https://www.ncbi.nlm.nih.gov/pubmed/26944702)
