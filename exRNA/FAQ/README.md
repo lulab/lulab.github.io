@@ -42,7 +42,7 @@ Procedure: Cells are lysed, and the RNA is hybridized to an oligo(dT)-containing
 
 There are 2 versions of Smart-Seq: Smart-Seq and Smart-seq2. Smart-seq2 includes several improvements over the original Smart-Seq protocol. The new protocol includes a locked nucleic acid (LNA), an increased MgCl2 concentration, betaine, and elimination of the purification step to improve the yield significantly.
 
-![SMARTer](SMARTer/umi.png)
+![SMARTer](img/SMARTer.png)
 
 > Reference:
 
