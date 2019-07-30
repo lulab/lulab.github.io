@@ -6,7 +6,7 @@
 ---
 ## General
 
-#### What are PBMC?
+#### What is PBMC?
 
 **Answer:** **Human Peripheral Blood Mononuclear Cells (PBMCs)** are blood cells with a single round nucleus. These cells include lymphocytes (T, B and NK cells), monocytes and dendritic cells.  PBMCs are parts of the immune system which are critical to cell-mediated and humoral immunity.
 Our Human PBMCs are isolated from normal healthy donor leukopaks collected in acid-citrate-dextrose formula A (ACDA) as an anticoagulant. All donors must be tested negative for HBV, HCV and HIV and are IRB consented.
