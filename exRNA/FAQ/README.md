@@ -17,7 +17,7 @@ Our Human PBMCs are isolated from normal healthy donor leukopaks collected in ac
 
 #### How many types of exRNAs?
 
-**exRNA** (extra-cellular RNA) includes long and short RNAs, which can be derived from the whole plamsa/serum (**cf-RNA**: cell -free RNA), or enriched from the exosomes/EVs of plasma/serum (**exoRNA**).
+**Answer:** **exRNA** (extra-cellular RNA) includes long and short RNAs, which can be derived from the whole plamsa/serum (**cf-RNA**: cell -free RNA), or enriched from the exosomes/EVs of plasma/serum (**exoRNA**).
 
 * *Long RNA* (>200nt): mRNA (RNA coding for protein), lncRNA (long noncoding RNA), rRNA
 * *Small noncoding RNA (ncRNA)* (20-30nt): miRNA, piRNA, siRNA
