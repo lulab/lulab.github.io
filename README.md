@@ -53,7 +53,7 @@
   * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
 * [People, Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ#Contacts_and_Seats)
 
-<img src="img/science.gif" height="80" style="margin-left:5em">
+<img src="img/science.gif" height="100" style="margin-left:5em">
 
 
 
