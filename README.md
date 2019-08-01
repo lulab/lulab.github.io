@@ -38,7 +38,7 @@
    * [Precision Medicine - exRNA Studies](http://lulab.github.io/exRNA/literature)
    * [Machine Learning and AI Studies](https://lulab.github.io/AI/literature)
    
-<img src="img/success.png" height="100" style="margin-left:5em">
+<img src="img/success.png" height="150" style="margin-left:5em">
  
 
 
@@ -53,7 +53,7 @@
   * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
 * [People, Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ#Contacts_and_Seats)
 
-<img src="img/science.gif" height="100" style="margin-left:5em">
+<img src="img/science.gif" height="120" style="margin-left:5em">
 
 
 
