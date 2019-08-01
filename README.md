@@ -37,9 +37,9 @@
    * [RNA Regulation Studies](http://lulab.github.io/RNA/literature)
    * [Precision Medicine - exRNA Studies](http://lulab.github.io/exRNA/literature)
    * [Machine Learning and AI Studies](https://lulab.github.io/AI/literature)
-
    
-   
+<img src="img/success.png" height="100" style="margin-left:5em">
+ 
 
 
 ## Level 2 - Lu Lab Intranet {#L2}
