@@ -17,7 +17,7 @@
 
 ## News/科普
 
-* 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” | NBT解析背后原因： [wechat](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) \| [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7)
+* 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因： [wechat](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) \| [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7)
 * 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Evernote Clip](https://www.evernote.com/l/ABJ3S8AgmJ9MiYlJfTEUGdlIc2z1P-vE4eE); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) )
 * 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list)
 
