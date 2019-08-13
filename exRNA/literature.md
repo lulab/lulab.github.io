@@ -44,8 +44,13 @@
 * **cfDNA Frag:**: Nature 2019 - Genome-wide cell-free DNA fragmentation in patients with cancer
 * **cfDNA Methylation**: Nature 2018 - Sensitive tumour detection and classification using plasma cell-free DNA methylomes 
 * **cfRNA/exRNA**: Science 2018 - Noninvasive blood tests for fetal development predict gestational age and preterm delivery
-* **exRNA Components**: Nature Communication 2017 - Coding and noncoding landscape of extracellular RNA
 * **Platelet RNA**: Cancer Cell 2017 - Swarm Intelligence-Enhanced Detection of Non-Small-Cell Lung Cancer Using Tumor-Educated Platelets  [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfRNA/Platelet%20RNA&mode=list)
+
+* More
+  * *exRNA Components*: 2017 Nature Communication - Coding and noncoding landscape of extracellular RNA
+  * *Progosis ctDNA*: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
+  * *Prognosis ctDNA*: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
+
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
