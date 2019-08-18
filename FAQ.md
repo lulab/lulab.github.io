@@ -10,7 +10,7 @@
 
 **日常的数据备份是必需的**：
 
-[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-crontab-and-rsync)
+[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-backup-your-data-regularly)
 
 
 * **在实验室如何上网？**
