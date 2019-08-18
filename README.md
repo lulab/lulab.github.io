@@ -2,9 +2,6 @@
 
 [Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
 
-* TOC
-{:toc}
-
 ---
 
 ## Level 1 - How to Start in Lu Lab {#L1}
@@ -18,7 +15,7 @@
 ### 📈 **Research** {#Research}
 
 * Meetings & Calendars
-  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/007eef8425d549a68255/)
+  * 🚩[Group Meeting Schedule](https://www.icloud.com/numbers/0ZRDtIwBhaUnaEGdUPYeJMuKw)
   * Lu Lab Calendars: see [how to subscribe calendars](https://lulab.github.io/cal)   
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
