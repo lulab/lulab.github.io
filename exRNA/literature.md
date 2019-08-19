@@ -50,8 +50,7 @@
 
 * More
   * *exRNA Components*: 2017 Nature Communication - Coding and noncoding landscape of extracellular RNA
-  * *Progosis ctDNA*: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
-  * *Prognosis ctDNA*: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
+
 
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
@@ -118,6 +117,7 @@
 
 
 
+
 ---
 ## Dry-lab Technology Papers   {#computing}
 
@@ -160,6 +160,14 @@
 >[PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
 
 ---
+
+## Prognosis Studies
+
+* *Progosis ctDNA*: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
+* *Prognosis ctDNA*: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
+* *Prognosis ctDNA*: 2019 Translational Med. - Personalized circulating tumor DNA analysis to detect residual disease after neoadjuvant therapy in breast cancer
+
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Prognosis&mode=list)
 
 ## Patents
 
