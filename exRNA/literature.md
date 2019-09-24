@@ -141,6 +141,16 @@
 * [Methods for Metagenomics](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20metagenomics&mode=list): tumor locator (tissue match), ranking, etc
 * [Methods for Tumor Location](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/method%20-%20locator&mode=list): tumor locator (tissue match), etc
 
+### Cancer Immunology
+
+* 2019 - Nat Genetics - Landscape of B cell immunity and related immune evasion in human cancers. PubMed PMID: 30742113
+* 2018 - Nat Biotech - Evaluation of immune repertoire inference methods from RNA-seq data. PubMed PMID: 30412202
+* 2017 - Nat Genetics - Ultrasensitive detection of TCR hypervariable-region sequences in solid-tissue RNA-seq data. 
+* 2016 - Nature Genetics - Landscape of tumor-infiltrating T cell repertoire of human cancers
+
+* 2018 - JCO - Immune checkpoint molecule expression measured using circulating cell-free RNA isolated from the blood of metastatic prostate cancer patients.
+
+
 ---
 
 ## Other Technologies for Liquid Biopsy
