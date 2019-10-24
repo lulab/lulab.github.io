@@ -100,6 +100,7 @@
 * **Pico-seq**: 
   * **DASH/CRISPR**: Genome Biology 2016 - Depletion of Abundant Sequences by Hybridization (DASH): using Cas9 to remove unwanted high-abundance species in sequencing libraries and molecular counting applications
   * **Pico Patent**: Pico Patent Application Publication
+* **SILVER-seq**: 2019 PNAS - Extracellular RNA in a single droplet of human serum reflects physiologic and disease states
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/RNA-seq%20library%20technology&mode=list)
 
