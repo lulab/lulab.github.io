@@ -61,7 +61,7 @@ PTN学生上课要求
 
 教学资源
 
-- [课件下载](https://cloud.tsinghua.edu.cn/d/f361101fc62e49df960b/?p=/genomics-PTN%202018&mode=list)
+- [课件下载](https://cloud.tsinghua.edu.cn/d/675c2b1a930047eaab97/?p=/genomics-PTN2019&mode=list)
 
 作业
 
