@@ -172,13 +172,19 @@
 
 ---
 
-## Prognosis Studies
+## Biomarker Panel Studies
+
+### Detection and Early Diagnosis
+
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
+
+### Prognosis Studies
 
 * *Progosis ctDNA*: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
 * *Prognosis ctDNA*: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
 * *Prognosis ctDNA*: 2019 Translational Med. - Personalized circulating tumor DNA analysis to detect residual disease after neoadjuvant therapy in breast cancer
 
-> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Prognosis&mode=list)
+> [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
 
 ## Patents
 
