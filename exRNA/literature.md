@@ -176,7 +176,11 @@
 
 ### Detection and Early Diagnosis
 
+* **ctDNA+Protein (CancerSEEK)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
+* **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
+
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
+
 
 ### Prognosis Studies
 
