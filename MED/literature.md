@@ -10,17 +10,15 @@
 ---
 ---
 
-## I. FAQ
 
-* [FAQ](FAQ/)
 
-## II. News/科普
+## 0. News/科普
 
 * 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因： [wechat](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) \| [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7)
 * 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Evernote Clip](https://www.evernote.com/l/ABJ3S8AgmJ9MiYlJfTEUGdlIc2z1P-vE4eE); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) )
 * 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list)
 
-## III. Review
+## I. Review Papers
 
 *  2018 - Nature Reviews Genetics - **Current and future perspectives of liquid biopsies in genomics-driven oncology**
 *  2018 - Nat Rev Clin Oncol. - Extracellular vesicles in cancer - implications for future improvements in cancer care
@@ -38,7 +36,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
 
-## IV. Representative Biomarker Studies
+## II. Representative Biomarker Studies
 
 * **ctDNA+Protein**: Science 2018 - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA Frag:**: Nature 2019 - Genome-wide cell-free DNA fragmentation in patients with cancer
@@ -50,16 +48,16 @@
   * *exRNA Components*: 2017 Nature Communication - Coding and noncoding landscape of extracellular RNA
 
 
-
 > [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=/Literature%20shared%20by%20John/Recommendation%20for%20Startup/Precision%20Medicine&mode=list)
 
-## V. Sub-directions
 
-## Biomarker Panel Studies
+## III. Sub-directions
 
-### Meta-analysis Studies
+### 1. Biomarker Panel Studies
 
-### Detection and Early Diagnosis
+#### 1.1 Meta-analysis Studies
+
+#### 1.2 Detection and Early Diagnosis
 
 * **ctDNA+Protein (CancerSEEK)**: 2018 - Science - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **ctDNA+Protein+Clinical Info**: 2019 - PNAS - Detection of early-stage hepatocellular carcinoma in asymptomatic HBsAg-seropositive individuals by liquid biopsy
@@ -67,7 +65,7 @@
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
 
 
-### Prognosis Studies
+#### 1.3 Prognosis Studies
 
 * *Progosis ctDNA*: 2019 JCO - Early Detection of Metastatic Relapse and Monitoring of Therapeutic Efficacy by Ultra-Deep Sequencing of Plasma Cell-Free DNA in Patients With Urothelial Bladder Carcinoma
 * *Prognosis ctDNA*: 2019 JAMA Oncology - Analysis of Plasma Cell-Free DNA by Ultradeep Sequencing in Patients With Stages I to III Colorectal Cancer
@@ -77,7 +75,7 @@
 
 > [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Biomarker%20Panel&mode=list)
 
-### Patents
+#### 1.4 Patents
 
 * [Recent patents in cancer detection - NBT 2019](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Patents&mode=list)
 
@@ -85,7 +83,7 @@
 
 
 
-### exRNA/cfRNA studies
+### 2. exRNA/cfRNA studies
 
 * **miRNA7**: JCO 2011 - Jia Fan - Plasma MicroRNA Panel to Diagnose Hepatitis B Virus–Related Hepatocellular Carcinoma
 * **long cfRNA-seq**: Clinical chemistry 2017 - Quake - Simultaneously Monitoring Immune Response and Microbial Infections during Pregnancy through Plasma cfRNA Sequencing
@@ -197,4 +195,6 @@
 
 >[PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/cfDNA%20Methylation&mode=list)
 
+### FAQ
 
+* [FAQ](FAQ/)
