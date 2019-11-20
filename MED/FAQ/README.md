@@ -1,4 +1,4 @@
-# FAQ for exRNA
+# FAQ for Precision Medicine
 
 * TOC
 {:toc}

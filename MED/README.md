@@ -1,4 +1,4 @@
-# exRNA @ lulab.github.io
+# Precision Medicine @ lulab.github.io
 
 ## Knowledge Base {#knowledge}
 
@@ -22,7 +22,7 @@
 
 ## Collaboration {#collaboration}
 
-* [Collaboration](http://www.ncrnalab.org/pub)
+* [Collaboration](http://www.ncrnalab.org/open)
 
 
 

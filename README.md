@@ -19,7 +19,7 @@
   * Lu Lab Calendars: see [how to subscribe calendars](https://lulab.github.io/cal)   
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
-  * Direction II: [Precision Medicine - exRNA Biomarker](http://lulab.github.io/exRNA)
+  * Direction II: [Precision Medicine](http://lulab.github.io/MED)
   * Direction III: [Machine Learning and AI](https://lulab.github.io/AI)
 
 ### 📖 **Learning**  {#Learning}
@@ -32,11 +32,12 @@
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
 * **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) \| [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/) \| [Tip: how to automatically receive search notifications](http://lulab.github.io/reading))
    * [RNA Regulation Studies](http://lulab.github.io/RNA/literature)
-   * [Precision Medicine - exRNA Studies](http://lulab.github.io/exRNA/literature)
+   * [Precision Medicine Studies](http://lulab.github.io/MED/literature)
    * [Machine Learning and AI Studies](https://lulab.github.io/AI/literature)
    
+
 <img src="img/success.png" height="150" style="margin-left:5em">
- 
+
 
 
 ## Level 2 - Lu Lab Intranet {#L2}
@@ -62,7 +63,6 @@
   * [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 11'Yang
   * [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu 
   * [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
-
 
 ---
 
