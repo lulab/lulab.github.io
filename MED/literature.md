@@ -12,13 +12,13 @@
 
 
 
-## 0. News of Liquid Biopsy 液体活检的科普
+## 0. News of Liquid Biopsy 关于液体活检技术的科普
 
 * 为何投资者对癌症ctDNA液体活检依旧“信心满满，热情高涨” - NBT解析背后原因： [wechat](https://mp.weixin.qq.com/s/XbXB8cpw1uMQMId7uIirfA) \| [Nature Biotech.](https://www.nature.com/articles/d41587-019-00022-7)
 * 开启肿瘤早筛新纪元，液态活检蓄势待发 ( [Evernote Clip](https://www.evernote.com/l/ABJ3S8AgmJ9MiYlJfTEUGdlIc2z1P-vE4eE); [Wechat link](https://mp.weixin.qq.com/s/I_mlH_l4ORrAZS_rv9bytQ) )
 * 测序中国-2019 聚焦DNA甲基化与癌症早筛专题报告Beta版: [PDF](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Popular%20Science&mode=list)
 
-## I. Review Papers
+## I. Review Papers of Liquid Biopsy
 
 *  2018 - Nature Reviews Genetics - **Current and future perspectives of liquid biopsies in genomics-driven oncology**
 *  2018 - Nat Rev Clin Oncol. - Extracellular vesicles in cancer - implications for future improvements in cancer care
@@ -30,7 +30,7 @@
 
 > [PDFs](https://cloud.tsinghua.edu.cn/d/f72ee6992a1e4ec78044/?p=/Review&mode=list)
 
-## II. Representative Studies
+## II. Representative Studies of Liquid Biopsy
 
 * **ctDNA+Protein**: Science 2018 - Detection and localization of surgically resectable cancers with a multi-analyte blood test
 * **cfDNA Frag:**: Nature 2019 - Genome-wide cell-free DNA fragmentation in patients with cancer
