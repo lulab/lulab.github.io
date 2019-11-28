@@ -9,13 +9,13 @@
 ### 🎉 **Welcome** {#Welcome}
 
 * [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg) <sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
-* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/fcd7c39ae856433f97b5/) <sup>online-only</sup>
+* [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ) 
 
 ### 📈 **Research** {#Research}
 
 * Meetings & Calendars
-  * 🚩[Group Meeting Schedule](https://www.icloud.com/numbers/0ZRDtIwBhaUnaEGdUPYeJMuKw)
+  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)
   * Lu Lab Calendars: see [how to subscribe calendars](https://lulab.github.io/cal)   
 * Projects ([get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
   * Direction I: [RNA Regulation](http://lulab.github.io/RNA)
