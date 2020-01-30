@@ -1,3 +1,3 @@
 ---
-redirect_to: "https://www.evernote.com/l/ABJ1_LKqbc1NAaoFohtSR0SXi2Vh3RbVNrg"
+redirect_to: "https://app.yinxiang.com/fx/5f42b2d3-d064-485b-ae3f-d6de64ad5bcc"
 ---
