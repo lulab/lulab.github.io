@@ -8,7 +8,7 @@
 
 ### 🎉 **Welcome** {#Welcome}
 
-* [Lab Manual](https://www.jianguoyun.com/p/DSbqU-EQ9sSIBhj50Dg) <sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
+* [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC) <sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/) <sup>online-only</sup>
 * [FAQ](https://lulab.github.io/FAQ) 
 
@@ -26,10 +26,8 @@
 
 * [Courses](courses/README.md) @ Tsinghua  
 * Training @ Lu Lab
-  * [Basic Tutorial](https://lulab2.gitbook.io/teaching)
-  * [Advanced Tutorial](https://lulab.gitbook.io/training)
-  * [Lab Shared Notes](https://www.evernote.com/pub/luzhiustc/lulabsharednotes) 
-  * [Learning Materials](https://cloud.tsinghua.edu.cn/d/e63019c19d59449992fc/)
+  * [Basic Tutorial](https://lulab2.gitbook.io/teaching) \| [Advanced Tutorial](https://lulab.gitbook.io/training)
+  * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)  \|  [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)
 * **Literature Reading** ([PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) \| [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/) \| [Tip: how to automatically receive search notifications](http://lulab.github.io/reading))
    * [RNA Regulation Studies](http://lulab.github.io/RNA/literature)
    * [Precision Medicine Studies](http://lulab.github.io/MED/literature)
@@ -48,7 +46,7 @@
   * [Dry-lab Configuration and Instructions](https://github.com/lulab/intranet/wiki)<sup>Private</sup>
 * Lab Files<sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
-  * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
+  * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) （*under maintenance*） (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
 * [People, Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ#Contacts_and_Seats)
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
