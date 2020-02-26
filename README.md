@@ -47,7 +47,7 @@
 * Lab Files<sup>Private</sup>
   * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
   * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) （*under maintenance*） (see [how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html))
-* [People, Contacts & Seats](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ#Contacts_and_Seats)
+* [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
