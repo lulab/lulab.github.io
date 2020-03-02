@@ -3,6 +3,12 @@
   <head>
     <meta charset="UTF-8">
 
+    <style>
+#layer1 {position:absolute; top:50px; left: 150px}
+</style>
+
+    
+    
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
@@ -25,7 +31,9 @@
     </section>
 
     <section class="main-content">
-{% include toc.html html=content %}
+      
+      <div id=layer1><b> {% include toc.html html=content %} </b></div>
+
       {{ content }}
 
       <footer class="site-footer">
