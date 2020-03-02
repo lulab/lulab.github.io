@@ -4,14 +4,14 @@
 
 <div style="position:fixed; top:60%; right:10%; width:20%; border-radius:5px; padding-bottom: 1rem;">
     
+ {% include toc.html html=content %} 
+
+</div>
 
 **Table of Contents:**
 
 * TOC
 {:toc}
-
-</div>
-
 
 
 ---
