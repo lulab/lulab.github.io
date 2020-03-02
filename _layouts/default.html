@@ -5,6 +5,19 @@
 
     <style>
 #layer1 {position:absolute; top:50px; left: 150px}
+    
+   #layer2 {
+    position: fixed;
+    top: 40%;
+    right: 10%;
+    width: 10%;
+    transform: translateY(-50%);
+    /*background-color: #f6f6f6;*/
+    /*border: solid 1px #c9c9c9;*/
+    border-radius: 5px;
+    padding-bottom: 1rem;
+      }
+      
 </style>
 
     
@@ -32,7 +45,7 @@
 
     <section class="main-content">
       
-      <div id=layer1><b> {% include toc.html html=content %} </b></div>
+      <div id=layer2><b> {% include toc.html html=content %} </b></div>
 
       {{ content }}
 
