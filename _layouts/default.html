@@ -24,10 +24,12 @@
     </section>
 
     <section class="main-content">
-      <div style="position: relative; float: left; height: 100px; margin: 10px; ">
-      {% include nav.html %}
+      <div style="position: fixed; height: 100px; margin: 10px; ">
+        <hr/>
+        {% include nav.html %}
+        <hr/>
       </div>
-      
+
       {{ content }}
 
       <footer class="site-footer">
