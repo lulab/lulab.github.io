@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <meta charset="UTF-8">  
-    
+    <meta charset="UTF-8">
+
 {% seo %}
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    
-    {% include nav.html %}
 
+   <div style="position: fixed; height: 40px; "> 
+   {% include nav.html %}
+   </div>
   </head>
   <body>
     <section class="page-header">
@@ -25,7 +26,7 @@
     </section>
 
     <section class="main-content">
-      
+
       {{ content }}
 
       <footer class="site-footer">
