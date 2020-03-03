@@ -24,7 +24,7 @@
 
 ### 📖 **Learning**  {#Learning}
 
-* [Courses](courses/README.md) @ Tsinghua  
+* [Courses](https://www.ncrnalab.org/courses) @ Tsinghua  
 * Training @ Lu Lab
   * [Basic Tutorial](https://lulab2.gitbook.io/teaching) \| [Advanced Tutorial](https://lulab.gitbook.io/training)
   * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)  \|  [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)
