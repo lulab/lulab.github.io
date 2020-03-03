@@ -55,7 +55,7 @@
   * [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
 
   * [POSTAR1 and POSTAR2](http://lulab.life.tsinghua.edu.cn/postar) 2017,2019 - 11'Yang + 15'Zhu
-  * [Clipdb](http://lulab.life.tsinghua.edu.cn/clipdb) 2017,2019 - 11'Yang + 15'Zhu
+  * [Clipdb](http://lulab.life.tsinghua.edu.cn/clipdb) 2015 - 11'Yang + 15'Zhu
 
 ---
 
