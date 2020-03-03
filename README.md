@@ -50,9 +50,12 @@
 ## Level 3 - Publish in Lu Lab {#L3}
 
   * [RNAfinder: RiboWave](http://lulab.github.io/Ribowave) 2018 - 15'Xu + 11'Hu
-  * [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 11'Yang
+  * [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 15'Shi + 11'Yang
   * [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu
   * [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
+
+  * [POSTAR1 and POSTAR2](http://lulab.life.tsinghua.edu.cn/postar) 2017,2019 - 11'Yang + 15'Zhu
+  * [Clipdb](http://lulab.life.tsinghua.edu.cn/clipdb) 2017,2019 - 11'Yang + 15'Zhu
 
 ---
 
