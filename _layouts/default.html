@@ -8,6 +8,11 @@
     <meta name="theme-color" content="#157878">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
 
+    <div style="position: fixed; background: white; height: 100px; ">
+      {% include nav.html %}
+      <hr/>
+    </div>
+
 
   </head>
   <body>
@@ -24,11 +29,6 @@
     </section>
 
     <section class="main-content">
-      <div style="position: fixed; height: 100px; margin: 10px; ">
-        <hr/>
-        {% include nav.html %}
-        <hr/>
-      </div>
 
       {{ content }}
 
