@@ -1,6 +1,6 @@
 ## Literature Reading
 
-**Literature Reading as often as you can** is essicial for researcher.
+**Literature Reading as often as you can** is essential for researcher.
 
 ### Automatically receive search notifications
 
