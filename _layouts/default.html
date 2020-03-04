@@ -35,7 +35,7 @@
         {% endif %}
 
 
-<!--
+
 
         <p style="font-weight: bold; text-align: left; ">
           <br/><br/>
@@ -50,19 +50,17 @@
           <hr/>
           <a href="{{site.baseurl}}/cal">Lab Calendars</a> <br/>
           <a href="{{site.baseurl}}/FAQ">Lab FAQ</a> <br/>
--->
-	      
-	<br/>
-	<div style="position: absolute;   width: 80%;  height: 400px ">
-	
-	 {% include toc.html html=content sanitize=true class="inline_toc" id="my_toc" h_min=2 h_max=3 %}
-	
-	</div>
 
+	      
+	
       </header>
+
       <section>
+       
+       {% include toc.html html=content sanitize=true id="my_toc" h_min=2 h_max=3 %}
 
       {{ content }}
+	      
 
       </section>
       <footer>
