@@ -1,8 +1,8 @@
-## Literature Reading
+# Tips for Literature Search
 
 **Literature Reading as often as you can** is essential for researcher.
 
-### Automatically receive search notifications
+## Automatically receive search notifications
 
 1. Using [Pubmed](https://www.ncbi.nlm.nih.gov/pubmed)
 

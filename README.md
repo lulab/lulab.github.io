@@ -1,7 +1,5 @@
 # Laboratory Guide
 
-[Homepage of Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
-
 ## ======================= {#L1}
 
 ## Level I - Start in Lu Lab
@@ -10,12 +8,12 @@
 
 * [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC) <sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/) <sup>online-only</sup> (Tips:[get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
-* [FAQ](https://lulab.github.io/FAQ)
+* [FAQ](FAQ)
 
 
 ### 📅 Meetings {#Meetings}
   * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)
-  * [Lab Calendars](https://lulab.github.io/cal)   
+  * [Lab Calendars](cal)   
 
 
 ### 📖 Learning  {#Learning}
@@ -27,7 +25,7 @@
   * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
 * Literatures
   * [Collections](https://lulab.gitbook.io/docs/literature-collections)
-  * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) (Tips:[How to automatically receive literature notifications](http://lulab.github.io/reading))
+  * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) (Tips:[How to automatically receive literature notifications](reading))
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
 
 
@@ -43,7 +41,7 @@
 
 ### Drylab
 
-  * *wiki* for Drylab Configuration and Instruction
+  * *Wiki* for Drylab Configuration and Instruction
     * [Clusters](https://github.com/lulab/intranet/wiki/Clusters)
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)
     * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)
@@ -98,6 +96,7 @@
 
 
 
+---
 ---
 
 > * Lu Lab
