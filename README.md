@@ -11,11 +11,6 @@
 * [FAQ](FAQ)
 
 
-### 📅 Meetings {#Meetings}
-  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)
-  * [Lab Calendars](cal)   
-
-
 ### 📖 Learning  {#Learning}
 
 * Basics
