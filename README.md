@@ -1,61 +1,102 @@
 # Laboratory Guide
 
-[Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
+[Homepage of Lu Lab](http://lulab.life.tsinghua.edu.cn) @ Tsinghua University
 
----
+## ======================= {#L1}
 
-## Level 1 - Start in Lu Lab {#L1}
+## Level I - Start in Lu Lab
 
-### 🎉 **Welcome** {#Welcome}
+### 🎉 Welcome {#Welcome}
 
 * [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC) <sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/) <sup>online-only</sup> (Tips:[get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
 * [FAQ](https://lulab.github.io/FAQ)
 
 
-### 📖 **Learning**  {#Learning}
+### 📅 Meetings {#Meetings}
+  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)
+  * [Lab Calendars](https://lulab.github.io/cal)   
 
-* [Courses @Tsinghua](https://www.ncrnalab.org/courses)  
+
+### 📖 Learning  {#Learning}
+
+* Basics
   * [Tutorials](https://lulab.gitbook.io)
   * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)  
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)
-* [Literature Collections](https://lulab.gitbook.io/docs/literature-collections)
+  * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
+* Literatures
+  * [Collections](https://lulab.gitbook.io/docs/literature-collections)
   * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) (Tips:[How to automatically receive literature notifications](http://lulab.github.io/reading))
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
-
 
 
 <img src="img/success.png" height="150" style="margin-left:5em">
 
 
 
-## Level 2 - Research in Lu Lab {#L2}
+## ======================= {#L2}
+
+## Level II - Research in Lu Lab
 
 
-* Meetings
-  * 🚩[Group Meeting Schedule](https://cloud.tsinghua.edu.cn/f/328f88c8caa5407c9f69/)
-  * 📅[Lab Calendars](https://lulab.github.io/cal)   
-* 🚩[Intranet to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
-  * [Wet-lab Safety](https://lulab.github.io/intranet/safety/)<sup>Public</sup>, [Regulation](https://lulab.github.io/intranet/regulation/)<sup>Public</sup> and [Protocol](https://github.com/lulab/intranet/blob/master/wetlab/protocol/README.md)<sup>Private</sup>
-  * [Dry-lab Configuration and Instructions](https://github.com/lulab/intranet/wiki)<sup>Private</sup>
-* Lab Files<sup>Private</sup>
-  * [Tsinghua Cloud](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
-  * [Next Cloud](http://lulab.life.tsinghua.edu.cn/nextcloud/) (Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
-* [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)
+
+### Drylab
+
+  * *wiki* for Drylab Configuration and Instruction
+    * [Clusters](https://github.com/lulab/intranet/wiki/Clusters)
+    * [Servers](https://github.com/lulab/intranet/wiki/Servers)
+    * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)
+  * *Data*
+    * [Private Data @ Lab](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup>
+    * [Shared Data @ School](https://lulab.github.io/intranet/shared_data)
+
+### Wetlab
+  * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training)
+    * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety)
+    * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation)
+    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup>
+
+
+### Lab Docs and Files <sup>Private</sup>
+
+  * 🚩[Intranet to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
+  * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
+  * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))
+
+>  * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/) (Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
+
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
 
+## ======================= {#L3}
 
-## Level 3 - Publish in Lu Lab {#L3}
+## Level III - Publish in Lu Lab
 
-  * [RNAfinder: RiboWave](http://lulab.github.io/Ribowave) 2018 - 15'Xu + 11'Hu
-  * [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 15'Shi + 11'Yang
-  * [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu
-  * [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
+### [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
 
-  * [POSTAR1 and POSTAR2](http://lulab.life.tsinghua.edu.cn/postar) 2017,2019 - 11'Yang + 15'Zhu
-  * [Clipdb](http://lulab.life.tsinghua.edu.cn/clipdb) 2015 - 11'Yang + 15'Zhu
+### [Paper](https://www.ncrnalab.org/pub)
+
+* [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
+* 历届毕业论文<sup>Private</sup>: 清华云盘 - Lu Lab Archive/毕业论文
+* Manuscripts<sup>Private</sup>: 清华云盘 - Lu Lab Shared/5.Manuscript
+
+
+### [Database](http://www.ncrnalab.org/software)
+
+* [POSTAR1 and POSTAR2](http://lulab.life.tsinghua.edu.cn/postar) 2017,2019 - 11'Yang + 15'Zhu
+* [Clipdb](http://lulab.life.tsinghua.edu.cn/clipdb) 2015 - 11'Yang + 15'Zhu
+
+### [Method/App](http://www.ncrnalab.org/software)
+
+* [RNAfinder: RiboWave](http://lulab.github.io/Ribowave) 2018 - 15'Xu + 11'Hu
+* [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 15'Shi + 11'Yang
+* [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu
+* [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
+
+
+
 
 ---
 
