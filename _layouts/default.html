@@ -22,10 +22,6 @@
 
 
 
-        {% if site.github.is_user_page %}
-        <p class="view"><a href="{{ site.github.owner_url }}">View My GitHub Profile</a></p>
-        {% endif %}
-
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
@@ -67,10 +63,12 @@
       </section>
       <footer>
         <p>
-        {% if site.github.is_project_page %}
-          <small><a href="{{ site.github.repository_url }}">Github Repo</a></small>
-        {% endif %}
-        <small> @ <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> ; Theme by <a href="https://github.com/orderedlist">orderedlist</a></small></p>
+        <small>
+	<a href="{{ site.github.repository_url }}">Github Repo</a> @ 
+        <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a> ; 
+	Theme by <a href="https://github.com/orderedlist">orderedlist</a>
+	</small>
+	</p>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
