@@ -21,13 +21,13 @@
 * 组会报告要正式一些，每周一次，每个同学基本每学期会轮到一次的组会报告，以练习正式报告甚至是答辩报告的能力为目的，可以仿照“答辩ppt”的形式，包括I. Background, II. Method, III. Result, IV. Perspective (Future Plan)几个部分。
 
 > 大家做完报告之后都鼓励ppt上传到清华云这个文件夹下（Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation/3a.PPT - Project Presentation），对于同一个课题的同学，实验内部默认background的slides是共享的，做报告的同学可以直接使用之前人做过（包括我的）一些好的background slides，这样可以不断优化和积累background的slides。
-> 
+>
 > 清华云上（Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation/3a.PPT - Project Presentation）还提供了一些正式的presentation的模板：Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation：0.生命学院PPT模板； 0.优秀答辩ppt。
 
 
 ###  我们要经常备份数据吗？
 
-**日常的数据备份是必需的**：[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-backup-your-data-regularly)
+* **日常的数据备份是必需的**：[How to backup your data？](https://lulab2.gitbook.io/teaching/part-i.-basic-skills/1.setup#3-backup-your-data-regularly)
 
 
 ###  在实验室如何上网？
@@ -36,12 +36,13 @@
 每间屋子都有无线信号覆盖（接内网），无线名为所在房间，如:lulab2110,密码联系计算机管理员获得。
 
 
-###  在校外如何通过清华VPN登陆集群工作？
+###  在校外如何通过清华VPN下载文献或者登陆集群工作？
 
 校内用户从校外访问，必须通过学校的VPN进入，再访问系统。
 登录方式如下：
-1. 网页VPN：info.tsinghua.edu.cn，输入证件号及密码，进入后点击“开始”。这时即可进入校园网，使用ssh客户端登陆。
-2. VPN Client: 也可以从info.tsinghua.edu.cn上直接下载学校VPN软件安装使用。
+* 方法1. 清华大学WebVPN：https://its.tsinghua.edu.cn/info/xs_xwfw/2051
+* 方法2. SSL VPN：https://its.tsinghua.edu.cn/info/xs_xwfw/1081
+* 更多帮助：https://its.tsinghua.edu.cn/column/xsfwzn
 
 
 ###  当你需要在科研中使用正版软件，如何购买？
@@ -72,26 +73,34 @@
 ### 我如何尽快融入到实验室的科研氛围中？
 
 要先了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问，当然能百度出来的问
-题千万不要问。PI的角色是宏观的把握课题方向，论证科研思路，所以一旦自己有了想法要多和PI沟通，确定自己的课题。总结下来就是要做到主
-动思考，态度认真。
+题千万不要问。PI的角色是宏观的把握课题方向，论证科研思路，所以一旦自己有了想法要多和PI沟通，确定自己的课题。总结下来就是要做到主动思考，态度认真。
 
-> - Ask for help.
-> - Respect and appreciate your lab mates. 
-> - Have at least two projects.
-> - Sleep on it. 
-> - If you need guidance from your mentor, set up a meeting.
-> - Learn when to be obsessive.
-> - Start with the task you are least excited about, and do it right away. 
-> - Balance bouts of focused work with short breaks. 
-> - Get organized.
+* **科研生涯的四戒律**
+  1. 边干边学，不要彷徨。
+  2. 勇于创新，敢于挑战。
+  3. 忍受寂寞，注重过程。
+  4. 掌握历史，树立信心。
 
--- [A grad school survival guide, Science 2015](https://doi.org/10.1126/science.347.6228.1386) 
+* **十准则**
+  1. Craft good questions
+  2. Ask for help
+  3. Respect and appreciate your lab mates
+  4. Have at least two projects
+  5. Sleep on it
+  6. If you need guidance from your mentor, set up a meeting
+  7. Learn when to be obsessive
+  8. Start with the task you are least excited about, and do it right away
+  9. Balance bouts of focused work with short breaks
+  10. Get organized
+
+[See More](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
 
 ### How to remove cache of a redirect site?
+
+有些时候实验室的域名更换了host的服务器，但是自己电脑cache里还是存的老服务器地址，造成一些链接没法访问，可以清除自己浏览器的cache，重新刷新一下。
+
+例如，Mac Chrome 可以如下配置：
 
 View --> Developer --> Developer Tools --> Settings (click upright corner)
 
 check "*disable cache*"
-
-
-
