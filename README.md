@@ -20,7 +20,7 @@
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)
   * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
 * Literatures
-  * [Collections](https://lulab.gitbook.io/docs/literature-collections)
+  * [Collections](https://lulab.github.io/intranet/literature-collections)
   * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) (Tips:[How to automatically receive literature notifications](reading))
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
 
@@ -88,7 +88,6 @@
 * [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 15'Shi + 11'Yang
 * [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu
 * [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
-
 
 
 
