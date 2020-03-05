@@ -91,7 +91,7 @@
 
 View --> Developer --> Developer Tools --> Settings (click upright corner)
 
-check "[disable cache](https://lulab.github.io/img/cache.png)"
+check "*disable cache*"
 
 
 
