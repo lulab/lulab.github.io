@@ -24,10 +24,10 @@
   * PDFs
     * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
-    * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min Papers&mode=list) 
-    * [More](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) 
-  
-    
+    * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min Papers&mode=list)
+    * [More](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/)
+
+
 
 <img src="img/success.png" height="150" style="margin-left:5em">
 
@@ -41,24 +41,25 @@
 
 ### Drylab
 
-  * *Wiki* for Drylab Configuration and Instruction
-    * [Clusters](https://github.com/lulab/intranet/wiki/Clusters)<sup>Private</sup>
-    * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup>
-    * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup>
-  * *Data*
-    * [Private Data @ Lab](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup>
-    * [Shared Data @ School](https://lulab.github.io/intranet/drylab_shared_data)
+  * *Wiki* for Drylab Configuration and Instruction (Xu Gang --> Xiaofan )
+    * [Clusters](https://github.com/lulab/intranet/wiki/Clusters)<sup>Private</sup> (Xiaofan)
+    * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
+    * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup> (Xiaofan)
+  * *Data* (Yumin --> Yinhui, Xu Gang )
+    * [Private Data @ Lab](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup> (Yinhui, Pengfei)
+    * [Shared Data @ School](https://lulab.github.io/intranet/drylab_shared_data) (Xu Gang, Yinhui)
 
 ### Wetlab
 
-  * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training)
-    * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety)
-    * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation)
-    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup>
+  * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training) (Siqi)
+    * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety) (Hongke)
+    * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation) (Pengfei)
+    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan, Shaozhen, et al.)
 
 ### Lab Docs and Files <sup>Private</sup>
 
-  * 🚩[Intranet to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
+  * 🚩[Intranet to-do](https://github.com/lulab/intranet/README.md)<sup>Private</sup>
+  * [Notes/Links Shared by Senior Students](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
   * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
   * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))<sup>Private</sup>
 >  * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
