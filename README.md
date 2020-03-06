@@ -19,7 +19,7 @@
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)<sup>TsinghuaCloud</sup>
   * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
 * Literatures
-  * [Literature Collections](https://lulab.gitbook.io/docs/literature-collections)<sup>gitbook</sup>
+  * [Literature Collections](https://lulab.gitbook.io/books/literature-collections)<sup>gitbook</sup>
   * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/)  (Tips:[How to automatically receive literature notifications](reading))
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
 
