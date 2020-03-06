@@ -45,9 +45,9 @@
     * [Clusters](https://github.com/lulab/intranet/wiki/Clusters)<sup>Private</sup> (Xiaofan)
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
     * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup> (Xiaofan)
-  * *Data* (Yumin --> Yinhui, Xu Gang )
-    * [Private Data @ Lab](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup> (Yinhui, Pengfei)
-    * [Shared Data @ School](https://lulab.github.io/intranet/drylab_shared_data) (Xu Gang, Yinhui)
+  * *Data* (Yumin → Lab: Yinhui (Siqi),  Platform: Xu Gang )
+    * [Data Summary](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup> (Yinhui, Siqi)
+    * [Public Data Shared @ School](https://lulab.github.io/intranet/drylab_shared_data) (Lab: Yinhui + Platform: Xu Gang)
 
 ### Wetlab
 
@@ -59,7 +59,6 @@
 ### Lab Docs and Files <sup>Private</sup>
 
   * 🚩[Intranet to-do](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab)<sup>Private</sup>
-  * [Notes/Links Shared by Senior Students](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
   * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
   * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))<sup>Private</sup>
 >  * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
