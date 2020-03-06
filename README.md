@@ -15,7 +15,7 @@
 
 * Basics
   * [Tutorials](https://lulab.gitbook.io)<sup>gitbook</sup>
-  * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)<sup>everhub</sup>
+  * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)<sup>evernote</sup>
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)<sup>TsinghuaCloud</sup>
   * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
 * Literatures
@@ -41,7 +41,7 @@
     * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup>
   * *Data*
     * [Private Data @ Lab](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup>
-    * [Shared Data @ School](https://lulab.github.io/intranet/shared_data)
+    * [Shared Data @ School](https://lulab.github.io/intranet/drylab_shared_data)
 
 ### Wetlab
 
