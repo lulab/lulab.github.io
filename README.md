@@ -14,13 +14,11 @@
 ### 📖 Learning  {#Learning}
 
 * **Basics**
-  
   * [Tutorials](https://lulab.gitbook.io)<sup>gitbook</sup>
   * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)<sup>evernote</sup>
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)<sup>TsinghuaCloud</sup>
   * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
 * **Literatures** (Tips: [add weekly literature update notifications](reading))
-  
   * [Literature Collections](https://lulab.gitbook.io/books/literature-collections)<sup>gitbook</sup>
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
   * PDFs
@@ -58,17 +56,14 @@
     * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation)
     * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup>
 
-
 ### Lab Docs and Files <sup>Private</sup>
 
   * 🚩[Intranet to-do and links](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
   * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
   * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))<sup>Private</sup>
-
->  * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/) (Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
+>  * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
-
 
 ## ======================= {#L3}
 
