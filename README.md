@@ -60,12 +60,12 @@
   * [Data Summary](https://github.com/lulab/intranet/blob/master/data/README.md#data--lu-lab)<sup>Private</sup> (Yumin → Yinhui, Siqi)
   * [Public Data Shared @ School](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Lab: Yinhui + Platform: Xu Gang)
 
-### Lab Docs and Files <sup>Private</sup>
+### Docs/Files<sup>Private</sup>
 
   * 🚩[Intranet to-do](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab)<sup>Private</sup>
   * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
   * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))<sup>Private</sup>
->  * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
+> * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
