@@ -57,8 +57,8 @@
 
 ### Data
 
-  * [Data Summary](https://github.com/lulab/intranet/blob/master/data/README.md#data--lu-lab)<sup>Private</sup> (Yumin → Lab: Yinhui (Siqi),  Platform: Xu Gang )
-  * [Public Data Shared @ School](https://lulab.github.io/intranet/drylab_shared_data) (Lab: Yinhui + Platform: Xu Gang)
+  * [Data Summary](https://github.com/lulab/intranet/blob/master/data/README.md#data--lu-lab)<sup>Private</sup> (Yumin → Yinhui, Siqi)
+  * [Public Data Shared @ School](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Lab: Yinhui + Platform: Xu Gang)
 
 ### Lab Docs and Files <sup>Private</sup>
 
