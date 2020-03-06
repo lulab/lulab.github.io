@@ -13,22 +13,21 @@
 
 ### 📖 Learning  {#Learning}
 
-* Basics
+* **Basics**
+  
   * [Tutorials](https://lulab.gitbook.io)<sup>gitbook</sup>
   * [Lab Shared Notes](https://www.yinxiang.com/everhub/personal/336255)<sup>evernote</sup>
   * [Learning Materials](https://cloud.tsinghua.edu.cn/d/21e154bba31143ada2b1/)<sup>TsinghuaCloud</sup>
   * [Courses@Tsinghua](https://www.ncrnalab.org/courses)  
-* Literatures
+* **Literatures** (Tips: [add weekly literature update notifications](reading))
+  
   * [Literature Collections](https://lulab.gitbook.io/books/literature-collections)<sup>gitbook</sup>
-  
   * [Journal Club](https://cloud.tsinghua.edu.cn/d/132a10f5cfb64fc4bbe8/)
-  
   * PDFs
-  
     * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
-    * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min Papers&mode=list)  (Tips: [automatic literature notifications](reading))
-    * [More](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/)  
+    * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min Papers&mode=list) 
+    * [More](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/) 
   
     
 
