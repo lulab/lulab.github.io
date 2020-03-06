@@ -58,7 +58,7 @@
 
 ### Lab Docs and Files <sup>Private</sup>
 
-  * 🚩[Intranet to-do](https://github.com/lulab/intranet/README.md)<sup>Private</sup>
+  * 🚩[Intranet to-do](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab)<sup>Private</sup>
   * [Notes/Links Shared by Senior Students](https://github.com/lulab/intranet/projects/1?fullscreen=true)<sup>Private</sup>
   * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
   * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))<sup>Private</sup>
