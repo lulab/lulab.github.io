@@ -46,7 +46,7 @@
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
     * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup> (Xiaofan)
   * *Data* (Yumin → Lab: Yinhui (Siqi),  Platform: Xu Gang )
-    * [Data Summary](https://github.com/lulab/intranet/tree/master/drylab_data)<sup>Private</sup> (Yinhui, Siqi)
+    * [Data Summary](https://github.com/lulab/intranet/blob/master/data/README.md#data--lu-lab)<sup>Private</sup> (Yinhui, Siqi)
     * [Public Data Shared @ School](https://lulab.github.io/intranet/drylab_shared_data) (Lab: Yinhui + Platform: Xu Gang)
 
 ### Wetlab
