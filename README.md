@@ -59,8 +59,8 @@
 
 ### Data
 
-* [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)<sup>Private</sup> (Yumin → Yinhui et al.)
-   * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin/Hongke → Lab: Yinhui + Platform: Xu Gang)
+* [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)<sup>Private</sup> (multiple persons)
+   * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Lab: Yinhui + Platform: Xu Gang)
 
 
 
