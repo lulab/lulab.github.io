@@ -37,7 +37,12 @@
 
 ## Level II - Research in Lu Lab
 
+### Wetlab
 
+  * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training) (Siqi)
+    * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety) (Hongke)
+    * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation) (Pengfei)
+    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan, Shaozhen, et al.)
 
 ### Drylab
 
@@ -46,26 +51,20 @@
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
     * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup> (Xiaofan)
 
-
-### Wetlab
-
-  * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training) (Siqi)
-    * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety) (Hongke)
-    * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation) (Pengfei)
-    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan, Shaozhen, et al.)
-
-
 ### Data
 
-  * [Data Summary](https://github.com/lulab/intranet/blob/master/data/README.md#data--lu-lab)<sup>Private</sup> (Yumin → Yinhui, Siqi)
+  * [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md#data--lu-lab)<sup>Private</sup> (Yumin → Yinhui, Siqi)
   * [Public Data Shared @ School](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Lab: Yinhui + Platform: Xu Gang)
 
 ### Docs/Files
 
-  * 🚩[Intranet to-do](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab)<sup>Private</sup>
-  * [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
-  * [清华云盘](https://cloud.tsinghua.edu.cn)  ([App Download](https://www.seafile.com/download))<sup>Private</sup>
-> * [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
+  * [Intranet](https://github.com/lulab/intranet)<sup>Private</sup> ( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) )
+  * [清华云盘](https://cloud.tsinghua.edu.cn)<sup>Private</sup>
+ ([App Download](https://www.seafile.com/download))
+
+> [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>Private</sup>
+
+> [NextCloud @ Lab](http://lulab.life.tsinghua.edu.cn/nextcloud/)<sup>Private</sup>(Tips:[how to add WebDav](https://docs.nextcloud.com/server/15/user_manual/files/access_webdav.html)) （*under maintenance*）
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
