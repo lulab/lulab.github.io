@@ -54,8 +54,8 @@
 * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training) (Siqi)
     * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety) (Shaozhen)
     * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation) (Pengfei)
-    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan, Hongke, et al.)
-    * [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md)<sup>Private</sup> (Siqi et al.)
+    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan + Hongke)
+    * [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md)<sup>Private</sup> (multiple persons)
 
 ### Data
 
