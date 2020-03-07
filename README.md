@@ -49,11 +49,6 @@
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
     * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup> (Xiaofan)
 
-### Data
-
-* [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)<sup>Private</sup> (Yumin → Yinhui et al.)
-    * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin/Hongke → Lab: Yinhui + Platform: Xu Gang)
-
 ### Wetlab
 
 * [Wetlab Training](https://lulab.github.io/intranet/wetlab_training) (Siqi)
@@ -61,6 +56,13 @@
     * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation) (Pengfei)
     * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan, Hongke, et al.)
     * [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md)<sup>Private</sup> (Siqi et al.)
+
+### Data
+
+* [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)<sup>Private</sup> (Yumin → Yinhui et al.)
+   * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin/Hongke → Lab: Yinhui + Platform: Xu Gang)
+
+
 
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
