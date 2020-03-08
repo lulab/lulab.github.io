@@ -4,4 +4,4 @@ theme: jekyll-theme-minimal
 plugins:
   - jekyll-redirect-from
 
-#logo: img/logo.png
+logo: img/logo-t.png
