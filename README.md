@@ -77,6 +77,7 @@
 * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
 * 历届毕业论文<sup>Private</sup>: 清华云盘 - Lu Lab Archive/毕业论文
 * Manuscripts<sup>Private</sup>: 清华云盘 - Lu Lab Shared/5.Manuscript
+* [Manuscipt writing checking list](manuscript.md)
 
 ### [Database](http://www.ncrnalab.org/software)
 
