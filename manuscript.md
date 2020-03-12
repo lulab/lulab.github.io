@@ -39,9 +39,26 @@
 **Main Text**
 
 1. Check **first** and **last** sentence in the **whole paper**.  To make it easy to read, in every paragraph, first and last sentences are important. Usually, first sentence introduces and summarizes the whole paragraph; last sentence concludes the whole paragraph (e.g. "This result suggests that ...").
+
 2. Check voice:
    1. In **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".
    2. In **Methods**, we may use **passive voice**  sometimes , such as " The difference was tested by a paired t test.".
+   
+3. Common usages:
+
+   1. We **~~performed~~**  RT-qPCR (RNA-seq …) for … → XX was **validated** (**seqenced** ...) by RT-qPCR.  
+
+   2. We **~~built~~** a Random Forest model …  → We used/developped a Random Forest model to … 
+
+   3. We **assayed/analyzed** … datasets. 
+
+   4. We **curated/collected** … datasets from …  OR 100 datasets were curated/collected from ...
+
+   5. XX was **significantly enriched** in the noncoding sequences (**t test *P*-valeue: 0.002**).
+
+   6. The enrichment is/was calcuated with RNApromo (**ref.**). The P-value cutoff is/was 0.001; the xx is/was 0.5; the xx is/was 0.8.  (depends on if you are talking to the audience about a plot or describe a result you have done.)
+
+      
 
 **Statistics**
 
