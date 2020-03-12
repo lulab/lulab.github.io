@@ -21,10 +21,9 @@
   - noncoding, cross-validation, *P*-value, V.S. (need to be capitalized), HCC/liver cancer
 2. Check if the **Abreviations** are **consistent** in the **whole paper**. Check if full name is used when it is mentioned first time. Occasionally, we may use full time several times in the beginning of Introduction, Methods and Suppl. Info., because they are separated documents when published.)
 
-
 **Grammar**
 
-> https://app.grammarly.com/ is very helpful. It has web version, desktop (MAC/Windows) version and  chrome/firefox/safari plugin.
+> [Grammarly](https://app.grammarly.com) (app.grammarly.com) is very helpful. It has web version, desktop (MAC/Windows) version and  chrome/firefox/safari plugin.
 
 1. Check **plural** or **single**.
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
