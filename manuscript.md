@@ -4,6 +4,7 @@
 
 1. Check Font: Times New Roman, 11pt or 10.5pt
 2. Check Line: double space (except for References)
+3. No indent for the first sentence of a new paragraph.
 
 **Introduction**
 
@@ -23,10 +24,10 @@
 
 **Grammar**
 
+> https://app.grammarly.com/ is very helpful. It has web version, desktop (MAC/Windows) version and  chrome/firefox/safari plugin.
+
 1. Check **plural** or **single**.
-
 2. Check if **Past tense** is used when we describe **results** (e.g., "We sequenced 50 samples ...").
-
 3. Check if **Present tense** is used when we make a **claim** or conclusion (e.g., usually in the last sentence of a paragraph, "This result suggests that …" ).
 
 **Figure and Figure Legend**
@@ -44,7 +45,7 @@
    1. In **Results**, we prefer **active voice**, such as "We analyzed the data …", not "The data were analyzed …".
    2. In **Methods**, we may use **passive voice**  sometimes , such as " The difference was tested by a paired t test.".
    
-3. Common usages:
+3. Check sentence patterns (Useful Sentence Patterns):
 
    1. We **~~performed~~**  RT-qPCR (RNA-seq …) for … → XX was **validated** (**seqenced** ...) by RT-qPCR.  
 
