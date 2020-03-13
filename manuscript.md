@@ -6,7 +6,7 @@
 2. Check Line: double space (except for References)
 3. No indent for the first sentence of a new paragraph.
 
-**Introduction**
+**Abstract**
 
 - 1.Background - 2.Results - 3.Conclusions
 
