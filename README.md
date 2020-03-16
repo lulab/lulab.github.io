@@ -78,6 +78,8 @@
 * 历届毕业论文<sup>Private</sup>: 清华云盘 - Lu Lab Archive/毕业论文
 * Manuscripts<sup>Private</sup>: 清华云盘 - Lu Lab Shared/5.Manuscript
 * [Manuscipt writing checking list](manuscript.md)
+* [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
+
 
 ### [Database](http://www.ncrnalab.org/software)
 
