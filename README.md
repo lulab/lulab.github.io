@@ -25,7 +25,7 @@
   * [PDFs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/)
     * [Lu Lab Publications](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/)
     * [5min Paper Meetings](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2F5min Papers&mode=list)
- 
+
 
 
 
@@ -70,28 +70,19 @@
 
 ## Level III - Publish in Lu Lab
 
-### [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
+* [Software](http://www.ncrnalab.org/software)
+* [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
+* [Paper](https://www.ncrnalab.org/pub)
+  * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
+  * 历届毕业论文<sup>Private</sup>: 清华云盘 - Lu Lab Archive/毕业论文
+  * Manuscripts<sup>Private</sup>: 清华云盘 - Lu Lab Shared/5.Manuscript
+    * [Manuscipt writing checking list](manuscript.md)
+    * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
-### [Paper](https://www.ncrnalab.org/pub)
-
-* [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
-* 历届毕业论文<sup>Private</sup>: 清华云盘 - Lu Lab Archive/毕业论文
-* Manuscripts<sup>Private</sup>: 清华云盘 - Lu Lab Shared/5.Manuscript
-* [Manuscipt writing checking list](manuscript.md)
-* [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
 
-### [Database](http://www.ncrnalab.org/software)
 
-* [POSTAR1 and POSTAR2](http://lulab.life.tsinghua.edu.cn/postar) 2017,2019 - 11'Yang + 15'Zhu
-* [Clipdb](http://lulab.life.tsinghua.edu.cn/clipdb) 2015 - 11'Yang + 15'Zhu
 
-### [Method/App](http://www.ncrnalab.org/software)
-
-* [RNAfinder: RiboWave](http://lulab.github.io/Ribowave) 2018 - 15'Xu + 11'Hu
-* [RNAtarget: RBPgroup](https://github.com/lulab/RBPgroup) 2017 - 13'Li + 15'Shi + 11'Yang
-* [RNAfinder: COME](https://github.com/lulab/COME) 2016 - 11'Hu
-* [RNAstructurome: RME](https://github.com/lulab/RME) 2015 - 12'Wu
 
 
 
