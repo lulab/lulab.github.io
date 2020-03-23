@@ -94,4 +94,4 @@
 > * Hompage: [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) \| [www.ncrnalab.org](http://www.ncrnalab.org)
 > * Github: [lulab.github.io](http://lulab.github.io)
 > * Docs/Books: [lulab.gitbook.io](http://lulab.gitbook.io)
-> * Software: [www.ncrnalab.org/software](http://www.ncrnalab.org/software)
+> * Software: [software.ncrnalab.org](http://software.ncrnalab.org)
