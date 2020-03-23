@@ -1,7 +1,8 @@
 #remote_theme: chrisrhymes/bulma-clean-theme
 theme: jekyll-theme-minimal
 #remote_theme: huangyz0918/moving
-plugins:
+#plugins:
+gems:
   - jekyll-redirect-from
 
 logo: img/logo-t.png
