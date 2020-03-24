@@ -45,9 +45,8 @@
 ### 📊Drylab
 
 * *Wiki* for Drylab Configuration and Instruction (Xu Gang → Xiaofan )
-    * [Clusters](https://github.com/lulab/intranet/wiki/Clusters)<sup>Private</sup> (Xiaofan)
+    * [Facilities](https://github.com/lulab/intranet/wiki/Facilities)<sup>Private</sup> (Xiaofan)
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
-    * [Singularity/Docker](https://github.com/lulab/intranet/wiki/Singularity)<sup>Private</sup> (Xiaofan)
 
 ### 🧪Wetlab
 
