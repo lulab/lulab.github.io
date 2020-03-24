@@ -44,8 +44,8 @@
 
 ### 📊Drylab
 
-* *Wiki* for Drylab Configuration and Instruction (Xu Gang → Xiaofan )
-    * [Facilities](https://github.com/lulab/intranet/wiki/Facilities)<sup>Private</sup> (Xiaofan)
+* *Wiki* for Drylab Configuration and Instruction
+    * [Facilities](https://github.com/lulab/intranet/wiki/Facilities)<sup>Private</sup> (Xiaofan, Zhang Shang)
     * [Servers](https://github.com/lulab/intranet/wiki/Servers)<sup>Private</sup> (Xu Gang)
 
 ### 🧪Wetlab
