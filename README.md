@@ -1,9 +1,18 @@
-# Laboratory Guide
-## 实验室指南
 
-## ======================= {#L1}
+<p style="font-size: 22pt; font-weight: bold; color:green;">
+Laboratory Guide
+<font style="font-size: 18pt;">实验室指南</font>
+</p>
 
-## Level I - Start in Lu Lab
+
+---
+
+<p id="L1" style="font-size: 30pt; font-weight: bold; color:green;">
+01
+<font style="font-size: 18pt;">Start in Lu Lab</font>
+</p>
+
+
 
 ### 🎉 Welcome {#Welcome}
 
@@ -32,10 +41,13 @@
 <img src="img/success.png" height="150" style="margin-left:5em">
 
 
+---
 
-## ======================= {#L2}
+<p id="L2" style="font-size: 30pt; font-weight: bold; color:green;">
+02
+<font style="font-size: 18pt;">Research in Lu Lab</font>
+</p>
 
-## Level II - Research in Lu Lab
 
 > * **Lab Docs/Files** ( [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>passwd protected</sup> )
 >  1. [Intranet](https://github.com/lulab/intranet)<sup>Private</sup> ( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) )
@@ -62,12 +74,14 @@
    * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Platform: Xu Gang)
 
 
-
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
-## ======================= {#L3}
+---
 
-## Level III - Publish in Lu Lab
+<p id="L3" style="font-size: 30pt; font-weight: bold; color:green;">
+03
+<font style="font-size: 18pt;">Publish in Lu Lab</font>
+</p>
 
 * [Software](http://www.ncrnalab.org/software)
 * [Patent](https://www.ncrnalab.org/open/#%E7%9B%B8%E5%85%B3%E4%B8%93%E5%88%A9)
