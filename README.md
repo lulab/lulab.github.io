@@ -103,7 +103,7 @@ Laboratory Guide
 
 > * Lu Lab
 > * School of Life Sciences, Tsinghua University, Beijing, China
-> * e-mai: lulab1 AT tsinghua.edu.cn
+> * e-mail: lulab1 AT tsinghua.edu.cn
 > * Hompage: [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) \| [www.ncrnalab.org](http://www.ncrnalab.org)
 > * Github: [lulab.github.io](http://lulab.github.io)
 > * Docs/Books: [lulab.gitbook.io](http://lulab.gitbook.io)
