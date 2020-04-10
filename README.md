@@ -18,7 +18,7 @@ Laboratory Guide
 
 * [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC)<sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)<sup>online-only</sup> (Tips:[get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
-* [FAQ](FAQ)
+* [FAQ](FAQ.md)
 
 ### 📖 Learning  {#Learning}
 
