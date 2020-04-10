@@ -102,9 +102,11 @@ Laboratory Guide
 ---
 
 > * Lu Lab
-> * School of Life Sciences, Tsinghua University, Beijing, China
-> * e-mail: lulab1 AT tsinghua.edu.cn
-> * Hompage: [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn) \| [www.ncrnalab.org](http://www.ncrnalab.org)
-> * Github: [lulab.github.io](http://lulab.github.io)
-> * Docs/Books: [lulab.gitbook.io](http://lulab.gitbook.io)
-> * Software: [software.ncrnalab.org](http://software.ncrnalab.org)
+> * Address:   School of Life Sciences, Tsinghua University, Beijing, China
+> * E-mail:    lulab1 AT tsinghua.edu.cn
+> * Docs/Books:[lulab.gitbook.io](http://lulab.gitbook.io)
+> * Github:    [lulab.github.io](http://lulab.github.io)
+> * Hompage:   [www.ncrnalab.org](http://www.ncrnalab.org) \| [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
+> * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
+> * Courses:  	[www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
+
