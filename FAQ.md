@@ -8,6 +8,56 @@
 ---
 ---
 
+###  如何在校外远程工作？
+
+
+#### 需要下载论文或者登录校园网，如何连接清华VPN? 
+  * 方法1. 清华大学WebVPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/2051>
+  * 方法2. SSL VPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/1081>
+更多帮助：<https://its.tsinghua.edu.cn/column/xsfwzn>
+
+
+#### 如何录制讲课视频？
+  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件”—导出—创建视频 ）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  |  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) | [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：带配音的＊.pps或＊.ppsx演示文稿可通过Powerpoint软件直接另存为＊.mp4格式）
+  * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5) 
+
+
+### =========
+
+
+
+###  如何成为一个好的研究生和科研工作者？
+
+> 做好从本科生到研究生的角色转变，不能只知道“学习”，要侧重“研究”。
+
+* **科研生涯的四戒律**
+  1. 边干边学，不要彷徨。
+  2. 勇于创新，敢于挑战。
+  3. 忍受寂寞，注重过程。
+  4. 掌握历史，树立信心。
+
+* **十准则**
+  1. Craft good questions
+  2. Ask for help
+  3. Respect and appreciate your lab mates
+  4. Have at least two projects
+  5. Sleep on it
+  6. If you need guidance from your mentor, set up a meeting
+  7. Learn when to be obsessive
+  8. Start with the task you are least excited about, and do it right away
+  9. Balance bouts of focused work with short breaks
+  10. Get organized
+
+[See More](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
+
+
+
+### 如何尽快融入到实验室的科研氛围中？
+
+要积极了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问 （当然很多问题可能GOOGLE更方便更高效）。总结下来就是要做到主动积极，勤学好问。
+
+
+
 ### 有事没法来实验室需要提前多久请假？
 
   * 如非事出突然/特殊因由，请**提前一周**发email给PI（抄送实验室管理员）请假；
@@ -36,13 +86,6 @@
 每间屋子都有无线信号覆盖（接内网），无线名为所在房间，如:lulab2110,密码联系计算机管理员获得。
 
 
-###  在校外如何通过清华VPN下载文献或者登陆集群工作？
-
-校内用户从校外访问，必须通过学校的VPN进入，再访问系统。
-登录方式如下：
-* 方法1. 清华大学WebVPN：https://its.tsinghua.edu.cn/info/xs_xwfw/2051
-* 方法2. SSL VPN：https://its.tsinghua.edu.cn/info/xs_xwfw/1081
-* 更多帮助：https://its.tsinghua.edu.cn/column/xsfwzn
 
 
 ###  当你需要在科研中使用正版软件，如何购买？
@@ -69,31 +112,6 @@
 
  实验室有两个运动小组，其中之一是羽毛球小组，另一个是游泳小组，定期会组织大家一起锻炼。
 
-
-### 我如何尽快融入到实验室的科研氛围中？
-
-要先了解实验室的几个研究方向，认清自己的兴趣所在；闲暇时间要多和师兄师姐交流他们的科研经验，汲取精华，要多问，当然能百度出来的问
-题千万不要问。PI的角色是宏观的把握课题方向，论证科研思路，所以一旦自己有了想法要多和PI沟通，确定自己的课题。总结下来就是要做到主动思考，态度认真。
-
-* **科研生涯的四戒律**
-  1. 边干边学，不要彷徨。
-  2. 勇于创新，敢于挑战。
-  3. 忍受寂寞，注重过程。
-  4. 掌握历史，树立信心。
-
-* **十准则**
-  1. Craft good questions
-  2. Ask for help
-  3. Respect and appreciate your lab mates
-  4. Have at least two projects
-  5. Sleep on it
-  6. If you need guidance from your mentor, set up a meeting
-  7. Learn when to be obsessive
-  8. Start with the task you are least excited about, and do it right away
-  9. Balance bouts of focused work with short breaks
-  10. Get organized
-
-[See More](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
 
 ### How to remove cache of a redirect site?
 
