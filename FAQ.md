@@ -19,7 +19,7 @@
 
 
 #### 如何录制讲课视频？
-  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件”—导出—创建视频 ）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  \|  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) \| [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：可以直接存为ppt文件，如果不想分享源文件，带配音的＊.pps或＊.ppsx演示文稿也可通过Powerpoint软件直接另存为＊.mp4格式）
+  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件”—导出—创建视频 ）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  \|  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) \| [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件直接另存为＊.mp4格式）
   * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5) 
 
 
