@@ -14,15 +14,16 @@
 #### 需要下载论文或者登录校园网，如何连接清华VPN? 
   * 方法1. 清华大学WebVPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/2051>
   * 方法2. SSL VPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/1081>
-更多帮助：<https://its.tsinghua.edu.cn/column/xsfwzn>
+
+> 更多帮助：<https://its.tsinghua.edu.cn/column/xsfwzn>
 
 
 #### 如何录制讲课视频？
-  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件”—导出—创建视频 ）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  |  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) | [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：带配音的＊.pps或＊.ppsx演示文稿可通过Powerpoint软件直接另存为＊.mp4格式）
+  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件”—导出—创建视频 ）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  \|  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) \| [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：带配音的＊.pps或＊.ppsx演示文稿可通过Powerpoint软件直接另存为＊.mp4格式）
   * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5) 
 
 
-### =========
+### \=\=\=\=\=
 
 
 
@@ -70,9 +71,9 @@
 
 * 组会报告要正式一些，每周一次，每个同学基本每学期会轮到一次的组会报告，以练习正式报告甚至是答辩报告的能力为目的，可以仿照“答辩ppt”的形式，包括I. Background, II. Method, III. Result, IV. Perspective (Future Plan)几个部分。
 
-> 大家做完报告之后都鼓励ppt上传到清华云这个文件夹下（Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation/3a.PPT - Project Presentation），对于同一个课题的同学，实验内部默认background的slides是共享的，做报告的同学可以直接使用之前人做过（包括我的）一些好的background slides，这样可以不断优化和积累background的slides。
+> 大家做完报告之后都鼓励ppt上传到清华云这个文件夹下（Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation/3a.PPT - Project Presentation），对于同一个课题的同学，实验内部默认background的slides是共享的，做报告的同学可以直接使用之前人做过（包括PI的）一些好的background slides，这样可以不断优化和积累background的slides。
 >
-> 清华云上（Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation/3a.PPT - Project Presentation）还提供了一些正式的presentation的模板：Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation：0.生命学院PPT模板； 0.优秀答辩ppt。
+> 清华云上（Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation/3a.PPT - Project Presentation）还提供了一些正式的presentation的模板：Lu Lab Library/Lu Lab Shared/3a.PPT - Project Presentation：0.PPT模板； 0.优秀答辩ppt。
 
 
 ###  我们要经常备份数据吗？
@@ -84,7 +85,6 @@
 
 目前实验室分校园网（外网：166.156.。。。）及内部网（172.22.220….）（每个座位都有标签标明外网、内网），对于校园网上网原则上使用个人帐号。
 每间屋子都有无线信号覆盖（接内网），无线名为所在房间，如:lulab2110,密码联系计算机管理员获得。
-
 
 
 
