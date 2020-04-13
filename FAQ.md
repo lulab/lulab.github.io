@@ -49,7 +49,7 @@
   9. Balance bouts of focused work with short breaks
   10. Get organized
 
-* **耶鲁大学心态理念**
+* **耶鲁大学对于心态方面的七个建议**
   1. 要无条件自信，即使在做错的时候；
   2. 不要想太多，定时清除消极思想；
   3. 学会忘记痛苦，为阳光记忆腾出空间；
