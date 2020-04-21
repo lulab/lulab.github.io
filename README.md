@@ -38,8 +38,7 @@ Laboratory Guide
 
 
 
-<img src="img/success.png" height="150" style="margin-left:5em">
-
+<img src="img/learning.jpg" height="150" style="margin-left:5em">
 
 ---
 
@@ -74,6 +73,7 @@ Laboratory Guide
    * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Platform: Xu Gang)
 
 
+
 <img src="img/science.gif" height="120" style="margin-left:5em">
 
 ---
@@ -94,10 +94,7 @@ Laboratory Guide
 
 
 
-
-
-
-
+<img src="img/success.png" height="150" style="margin-left:5em">
 
 ---
 
