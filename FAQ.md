@@ -57,7 +57,9 @@
   9. Balance bouts of focused work with short breaks
   10. Get organized
 
-* **耶鲁大学对于心态方面的七个建议**  ( [视频链接](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4) )
+* **耶鲁大学的心态理念（对于心态方面的七个建议）**  
+
+> 视频链接： [优酷](https://v.youku.com/v_show/id_XNDMwNjc0ODg2MA==.html) \|  [腾讯](https://v.qq.com/x/page/o075327nzri.html) \| [抖音@清华云](https://cloud.tsinghua.edu.cn/d/c93050a161224507a27e/files/?p=%2F%E8%80%B6%E9%B2%81%E5%A4%A7%E5%AD%A6%E7%9A%84%E5%BF%83%E6%80%81%E7%90%86%E5%BF%B5.mp4)
 
   1. 要无条件自信，即使在做错的时候；
   2. 不要想太多，定时清除消极思想；
