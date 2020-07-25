@@ -61,10 +61,10 @@ Laboratory Guide
 
 ### 🧪Wetlab
 
-* [Wetlab Training](https://lulab.github.io/intranet/wetlab_training) (Siqi)
-    * [Wetlab Safety](https://lulab.github.io/intranet/wetlab_safety) (Shaozhen)
-    * [Wetlab Regulation](https://lulab.github.io/intranet/wetlab_regulation) (Pengfei)
-    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan + Hongke)
+* [Wetlab Training](https://lulab.gitbook.io/books/wet-lab/wetlab_training) (Siqi)
+    * [Wetlab Safety](https://lulab.gitbook.io/books/wet-lab/wetlab_safety) 
+    * [Wetlab Regulation](https://lulab.gitbook.io/books/wet-lab/wetlab_regulation) 
+    * [Wetlab Protocol](https://github.com/lulab/intranet/blob/master/wetlab_protocol)<sup>Private</sup> (Yuhuan + Hongke) + Tsinghuacloud/9.Docs-Protocols<sup>Private</sup> (Shaozhen + Hongke + Siqi et al.)
     * [Wetlab Samples](https://github.com/lulab/intranet/blob/master/wetlab_samples/README.md)<sup>Private</sup> (multiple persons)
 
 ### 🗂Data
