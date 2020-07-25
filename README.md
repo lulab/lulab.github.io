@@ -71,7 +71,6 @@ Laboratory Guide
 ### 🗂Data
 
 * [Data Summary](https://github.com/lulab/intranet/blob/master/drylab_data/README.md)<sup>Private</sup> (multiple persons)
-   * [Public Data Shared @ Bioinfo. Platform](https://lulab.github.io/intranet/drylab_shared_data) (Yumin → Platform: Xu Gang)
 
 
 
