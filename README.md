@@ -89,7 +89,7 @@ Laboratory Guide
   * [PDF](https://cloud.tsinghua.edu.cn/d/46ebd01fd0484f468152/) of previous published papers
   * 历届毕业论文<sup>Private</sup>: 清华云盘 - Lu Lab Archive/毕业论文
   * Manuscripts<sup>Private</sup>: 清华云盘 - Lu Lab Shared/5.Manuscript
-    * [Manuscipt writing checking list](manuscript.md)
+    * [Manuscipt writing checking list](writing.md)
     * [ENDNOTE Libs](https://cloud.tsinghua.edu.cn/d/928f3f4a8c8d4ab8b8ad/?p=%2FENDNOTE&mode=list)
 
 
@@ -105,5 +105,5 @@ Laboratory Guide
 > * Github:    [lulab.github.io](http://lulab.github.io)
 > * Hompage:   [www.ncrnalab.org](http://www.ncrnalab.org) \| [lulab.life.tsinghua.edu.cn](http://lulab.life.tsinghua.edu.cn)
 > * Software:  [www.ncrnalab.org/software](http://software.ncrnalab.org)
-> * Courses:  	[www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
+> * Courses:  [www.ncrnalab.org/courses](http://www.ncrnalab.org/courses)
 
