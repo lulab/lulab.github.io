@@ -48,7 +48,7 @@ Laboratory Guide
 </p>
 
 
-> * **Lab Docs/Files** ( [Contacts & IDs](https://www.icloud.com/numbers/0jOfAXxHScDY51I-g0RwT1YKQ)<sup>passwd protected</sup> )
+> * **Lab Docs/Files**
 >  1. [Intranet](https://github.com/lulab/intranet)<sup>Private</sup> ( 🚩[to do list](https://github.com/lulab/intranet/blob/master/README.md#intranet-of-lu-lab) )
 >  2. [清华云盘](https://cloud.tsinghua.edu.cn)<sup>Private</sup>
  ([App Download](https://www.seafile.com/download))
