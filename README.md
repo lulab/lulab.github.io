@@ -16,7 +16,7 @@ Laboratory Guide
 
 ### 🎉 Welcome {#Welcome}
 
-* [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC)<sup>downloadable</sup> ([清华校历](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-1-1.html) 和[地图](https://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2.html))
+* [Lab Manual](https://www.jianguoyun.com/p/DZVQoDQQ9sSIBhjLzuMC)<sup>downloadable</sup> ([清华校历](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86&qs=n&form=QBLH&sp=-1&pq=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E6%A0%A1%E5%8E%86&sc=5-7&sk=&cvid=E012CF87B239486DA741BC1E40498B82) 和[地图](https://cn.bing.com/search?q=%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6+%E5%9C%B0%E5%9B%BE&go=Search&qs=ds&form=QBRE))
 * [Lab Introduction](https://cloud.tsinghua.edu.cn/f/c73ace6a5d7547c9ba23/)<sup>online-only</sup> (Tips:[get a coach](https://www.ted.com/talks/atul_gawande_want_to_get_great_at_something_get_a_coach))
 * [FAQ](FAQ.md)
 
