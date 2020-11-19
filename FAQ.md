@@ -8,22 +8,7 @@
 ---
 ---
 
-###  如何在校外远程工作？
 
-
-#### 需要下载论文或者登录校园网，如何连接清华VPN? 
-  * 方法1. 清华大学WebVPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/2051>
-  * 方法2. SSL VPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/1081>
-
-> 更多帮助：<https://its.tsinghua.edu.cn/column/xsfwzn>
-
-
-#### 如何录制讲课视频？
-  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件” — 保存 或者 另存为ppsx格式 或者 导出mp4格式）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  \|  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) \| [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件导出mp4（会很慢，注意等待较长时间完成导出））
-  * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5) 
-
-
-### \=\=\=\=\=
 
 ###  如何学习新知识和新技能？
 
@@ -66,11 +51,10 @@
   6. 面对别人的优秀，发自内心赞美；
   7. 做人最高境界不是一味低调，也不是一味张扬，而是始终如一的不卑不亢
 
-> 
-
 
 * See More
   * [科研生涯的四戒律和十准则](https://www.yinxiang.com/everhub/note/22f83fbc-edd2-41f1-aaa7-3564c572e3ac)
+  * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
   * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
 
@@ -132,6 +116,27 @@
 ### 大家平时用什么方式锻炼身体？
 
  实验室有两个运动小组，其中之一是羽毛球小组，另一个是游泳小组，定期会组织大家一起锻炼。
+
+###  如何在校外远程工作？
+
+
+#### 需要下载论文或者登录校园网，如何连接清华VPN? 
+
+  * 方法1. 清华大学WebVPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/2051>
+  * 方法2. SSL VPN：<https://its.tsinghua.edu.cn/info/xs_xwfw/1081>
+
+> 更多帮助：<https://its.tsinghua.edu.cn/column/xsfwzn>
+
+
+#### 如何录制讲课视频？
+
+  * 方法一：PPT 自带录音功能 (PPT录制方法：打开PPT—点击“幻灯片放映”—录制幻灯片演示-从头开始录制—录制完选择“文件” — 保存 或者 另存为ppsx格式 或者 导出mp4格式）（ [录制指南链接](https://support.office.com/zh-cn/article/在-powerpoint-演示文稿中添加或删除音频-c3b2a9fd-2547-41d9-9182-3dfaa58f1316)  \|  [视频教程链接](https://jingyan.baidu.com/article/ce09321b7bf2042bff858f8d.html) \| [示例文件链接](https://cloud.tsinghua.edu.cn/d/fd7414d4439747ee9a08/) ）（注：可以直接保存和分享ppt文件，点播放时会自动有声音；如果不想分享源文件，可以存为带配音的＊.pps或＊.ppsx演示文稿，也可通过Powerpoint软件导出mp4（会很慢，注意等待较长时间完成导出））
+  * 方法二： 在Mac上使用Quicktime录屏, 快捷键： (shift+CMD+5) 
+
+
+
+---
+
 
 
 ### How to remove cache of a redirect site?
