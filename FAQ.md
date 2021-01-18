@@ -144,7 +144,7 @@
 
 ###  科研办公中的常用软件如何获取和购买？
 
-* 清华大学购买和提供了很多常用的软件，供校内师生下载和使用，包括 Windows Pro, Office, WPS，ENDNOTE, MATLAB，NOD32，卡巴斯基等。（ [下载地址](https://its.tsinghua.edu.cn/column/zzfw#xiazai) ）
+* 清华大学购买和提供了很多常用的软件，供校内师生下载和使用，包括 Windows Pro, Office, WPS，ENDNOTE, MATLAB，NOD32，卡巴斯基等。（ [下载地址：清华大学信息化服务平台](https://its.tsinghua.edu.cn) ）
 
 * 如需购买其他特定软件，请向实验室管理员递交申请，写明需要哪种软件，以及版本号等信息。
 * 此外，对大多的开源软件，清华也提供一个镜像网站，地址： [清华大学开源软件镜像站](https://mirrors.tuna.tsinghua.edu.cn/)
