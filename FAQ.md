@@ -58,7 +58,18 @@
   * [好导师的 16 个标准](https://www.yinxiang.com/everhub/note/1883503d-9b17-4e92-b79e-3084ba7729a0)
   * [如何成为导师眼中的好学生？如何成为学生眼中的好导师？](https://www.yinxiang.com/everhub/note/1e8fbba0-a985-465f-8bce-186d8ec37ff0)
 
+### 和导师以及同学同时交流的方式建议如下：
 
+**基本原则**： 和别人面谈和讨论结构化并有提前预约的好习惯 (以下约定导师和学生彼此双向适用）
+
+* **Routine Talk & Meeting** 
+    * **Group/Subgroup Meeting**: THU/FRI/SAT 2pm: project result report & discussion
+       * Thursday Meeting Feedback from PI (individual talk) → Friday (4pm-6pm or 10am-12pm)
+       * Friday Meeting Feedback from PI (individual talk) → Saturday (5pm-6pm or 10am-12pm)
+    * **WECHAT** (**if emergency**: need answer within 24hour or less)
+    * **EMAIL** (only need answer in a day or two)
+* **Casual Chat**: (MON-FRI 4-6pm), PI would _answer questions/solve problems_ during this time period
+* **Sunday**: SILENT except for emergency 
 
 
 
