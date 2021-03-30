@@ -1,4 +1,4 @@
 ---
-redirect_to: "https://lulab.gitbook.io"
+redirect_to: "https://www.ncrnalab.org/courses"
 ---
 
