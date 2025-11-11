@@ -1,4 +1,4 @@
 ---
-redirect_to: "https://lulab.github.io/docs"
+redirect_to: "https://docs.ncRNAlab.org"
 ---
 
