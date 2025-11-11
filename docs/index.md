@@ -1,4 +1,4 @@
 ---
-redirect_to: "https://docs.ncRNAlab.org"
+redirect_to: "https://www.ncRNAlab.org"
 ---
 
